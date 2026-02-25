@@ -1,0 +1,30 @@
+# ── Python ──
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ── 환경 변수 / 민감 정보 ──
+.env
+.env.*
+*.secret
+*.key
+
+# ── 임시 분석 파일 (크롤링 디버그용) ──
+tmp_*
+*.tmp
+
+# ── 크롤링 데이터 (로컬 전용) ──
+data/
+
+# ── IDE / OS ──
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store

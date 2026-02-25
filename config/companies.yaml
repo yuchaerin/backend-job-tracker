@@ -1,0 +1,141 @@
+# ──────────────────────────────────────────────
+# 기업 타겟 설정 파일
+# ──────────────────────────────────────────────
+# 수집 대상 기업 목록을 정의한다.
+#
+# source 종류:
+#   mock        – 테스트용 (하드코딩 데이터)
+#   wanted      – 원티드 기업 채용 페이지
+#   saramin     – 사람인 기업 채용 페이지
+#   linkedin    – 링크드인 기업 채용 페이지
+#   career      – 회사 공식 채용 사이트 (범용 HTML 파싱, selectors 지정)
+#   greetinghr  – GreetingHR 플랫폼 기반 사이트 (카카오페이 등)
+#   playwright  – SPA 사이트 (JS 렌더링 필요, selectors 지정)
+#
+# 기업을 추가하려면 아래 리스트에 항목을 추가하기만 하면 된다.
+# ──────────────────────────────────────────────
+
+companies:
+
+  # ═══════════════════════════════════════════
+  # GreetingHR 플랫폼 (HTML 파싱 – 안정적)
+  # ═══════════════════════════════════════════
+
+  - name: "카카오페이"
+    source: "greetinghr"
+    url: "https://kakaopay.career.greetinghr.com/ko/main"
+
+  - name: "카카오모빌리티"
+    source: "greetinghr"
+    url: "https://kakaomobility.career.greetinghr.com/ko/guide"
+
+  # ═══════════════════════════════════════════
+  # SPA 사이트 – Playwright 렌더링 필요
+  # ═══════════════════════════════════════════
+
+  # ── 카카오 (React SPA) ──
+  # 공고 링크: /jobs/P-XXXXX 패턴
+  - name: "카카오"
+    source: "playwright"
+    url: "https://careers.kakao.com/jobs"
+    selectors:
+      job_list: "a[href*='/jobs/P-']"
+      title: "자체"
+      link: "자체"
+
+  # ── 네이버 (SSR + JS 렌더링) ──
+  # 공고 카드: a.card_link, 제목 포함
+  - name: "네이버"
+    source: "playwright"
+    url: "https://recruit.navercorp.com/rcrt/list.do"
+    selectors:
+      job_list: "a.card_link"
+      title: "자체"
+      link: "자체"
+
+  # ── 네이버 계열 (동일 채용 플랫폼, a.card_link 패턴) ──
+  - name: "네이버클라우드"
+    source: "playwright"
+    url: "https://recruit.navercloudcorp.com/rcrt/list.do"
+    selectors:
+      job_list: "a.card_link"
+      title: "자체"
+      link: "자체"
+
+  - name: "네이버파이낸셜"
+    source: "playwright"
+    url: "https://recruit.naverfincorp.com/rcrt/list.do"
+    selectors:
+      job_list: "a.card_link"
+      title: "자체"
+      link: "자체"
+
+  - name: "네이버웹툰"
+    source: "playwright"
+    url: "https://recruit.webtoonscorp.com/rcrt/list.do"
+    selectors:
+      job_list: "a.card_link"
+      title: "자체"
+      link: "자체"
+
+  # ── 아래 사이트는 Playwright로 분석 완료 ──
+
+  # ── 삼성SDS (삼성 채용 포털) ──
+  # li > div > a[data-value] 안에 h3.title(제목), p.company(계열사), p.info(경력/기간)
+  # 상세 링크가 /#none (팝업)이므로 목록 URL로 대체
+  - name: "삼성SDS"
+    source: "playwright"
+    url: "https://www.samsungcareers.com/hr/?action=notice&sysCompanyCd=C60"
+    selectors:
+      job_list: "ul.col3List.job li"
+      title: "h3.title"
+      link: "a[data-value]"
+      experience: "p.info span:first-child"
+      location: "p.company"
+
+  # ── 롯데이노베이트 (Next.js SPA) ──
+  # 현재 진행 중인 공고가 없을 수 있으나, URL은 유효함
+  - name: "롯데이노베이트"
+    source: "playwright"
+    url: "https://www.lotteinnovate.com/ko/recruit/careers"
+    selectors:
+      job_list: "a[href*='/recruit/'], div[class*='recruit'] a"
+      title: "자체"
+      link: "자체"
+
+  # ── 접근 불가로 비활성화 (2026-02-24 확인) ──
+
+  # LG CNS: React MUI SPA, 채용 공고가 API로 로딩되어 CSS 셀렉터 방식 어려움
+  # careers.lg.com 접속 시 /jobs URL로 리디렉트, 공고 목록은 MUI 컴포넌트 내 동적 렌더링
+  # - name: "LG CNS"
+  #   source: "playwright"
+  #   url: "https://careers.lg.com/app/apply/RecruitNotice?c=CNS"
+
+  # 현대오토에버: 채용 페이지 404 에러 (URL 변경 추정)
+  # - name: "현대오토에버"
+  #   source: "playwright"
+  #   url: "https://www.hyundai-autoever.com/kor/recruit/list"
+
+  # 한화시스템 (한화인): Playwright에서 에러 페이지 반환 (봇 차단 추정)
+  # - name: "한화시스템"
+  #   source: "playwright"
+  #   url: "https://www.hanwhain.com/web/job/posting.do"
+
+  # ═══════════════════════════════════════════
+  # 실제 소스 (구현 완료, URL만 교체하면 동작)
+  # ═══════════════════════════════════════════
+
+  # ▸ 원티드 (wanted) – 기업 채용 페이지 URL 입력
+  # - name: "카카오"
+  #   source: "wanted"
+  #   url: "https://www.wanted.co.kr/company/1234/jobs"
+
+  # ▸ 사람인 (saramin) – 기업정보 페이지 URL 입력
+  # - name: "네이버"
+  #   source: "saramin"
+  #   url: "https://www.saramin.co.kr/zf_user/company-info/view?csn=1234567890"
+
+  # ▸ 링크드인 (linkedin) – 기업 페이지 URL 입력
+  # - name: "토스"
+  #   source: "linkedin"
+  #   url: "https://www.linkedin.com/company/toss-korea/jobs"

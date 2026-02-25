@@ -1,0 +1,13 @@
+# 파이썬 의존성 목록
+# Python 3.11+ 필요
+
+# Windows에서 ZoneInfo 사용 시 필요
+tzdata>=2024.1
+# YAML 설정 파일 로딩
+PyYAML>=6.0.1
+# HTTP 클라이언트 (크롤링 소스)
+requests>=2.31.0
+# HTML 파서 (크롤링 소스)
+beautifulsoup4>=4.12.0
+# SPA 사이트 크롤링 (헤드리스 브라우저)
+playwright>=1.40.0

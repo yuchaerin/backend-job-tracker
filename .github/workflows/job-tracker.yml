@@ -1,0 +1,58 @@
+name: Job Tracker
+
+on:
+  schedule:
+    # KST 12:00 = UTC 03:00, KST 18:00 = UTC 09:00
+    - cron: "0 3 * * *"
+    - cron: "0 9 * * *"
+  workflow_dispatch: # 수동 실행 지원
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-update:
+    runs-on: ubuntu-latest
+
+    env:
+      # 이메일 알림 (기본 비활성화, Secrets로 설정 시 활성화)
+      ENABLE_EMAIL: ${{ secrets.ENABLE_EMAIL || 'false' }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      MAIL_FROM: ${{ secrets.MAIL_FROM }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+
+    steps:
+      - name: 📥 리포지토리 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 🐍 Python 3.11 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 의존성 설치
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: 🌐 Playwright 브라우저 설치
+        run: playwright install --with-deps chromium
+
+      - name: 🔍 공고 수집 실행
+        run: python src/main.py
+
+      - name: 📝 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add JOB_TRACKER.md data/jobs.json
+          # 변경이 있을 때만 커밋
+          if git diff --cached --quiet; then
+            echo "변경사항 없음 – 커밋 건너뜀"
+          else
+            git commit -m "🔄 공고 업데이트 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
