@@ -48,7 +48,7 @@ backend-job-tracker/
 
 ```bash
 # 1. 리포지토리 클론
-git clone https://github.com/<your-username>/backend-job-tracker.git
+git clone https://github.com/yuchaerin/backend-job-tracker.git
 cd backend-job-tracker
 
 # 2. (선택) 가상환경 생성
