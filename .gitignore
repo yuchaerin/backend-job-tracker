@@ -18,7 +18,7 @@ tmp_*
 *.tmp
 
 # ── 크롤링 데이터 (로컬 전용) ──
-data/
+# data/
 
 # ── IDE / OS ──
 .idea/
