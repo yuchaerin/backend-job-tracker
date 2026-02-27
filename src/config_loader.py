@@ -60,6 +60,40 @@ class ExperienceFilter:
 
 
 @dataclass
+class SaraminConfig:
+    """사람인 검색 설정.
+
+    Attributes:
+        keywords: 검색 키워드 (공백 구분)
+        job_cd: 직무 코드 (84 = 백엔드/서버개발)
+        experience_min: 최소 경력 (년)
+        experience_max: 최대 경력 (년)
+    """
+
+    keywords: str = "자바 백엔드"
+    job_cd: str = "84"
+    experience_min: int = 5
+    experience_max: int = 7
+
+
+@dataclass
+class WantedConfig:
+    """원티드 검색 설정.
+
+    Attributes:
+        tag_type_ids: 직군 태그 ID (518 = 개발)
+        years_min: 최소 경력 (년)
+        years_max: 최대 경력 (년)
+        keywords: 제목 필터 키워드 (쉼표 구분)
+    """
+
+    tag_type_ids: str = "518"
+    years_min: int = 5
+    years_max: int = 7
+    keywords: str = "자바,Java,백엔드,Backend,서버,Server,스프링,Spring"
+
+
+@dataclass
 class AppSettings:
     """애플리케이션 전체 설정.
 
@@ -67,11 +101,15 @@ class AppSettings:
         companies: 기업 타겟 목록
         experience_filter: 경력 필터 설정
         mock_skip_filter: mock 소스 필터 건너뛰기 여부
+        saramin_config: 사람인 검색 설정
+        wanted_config: 원티드 검색 설정
     """
 
     companies: list[CompanyConfig] = field(default_factory=list)
     experience_filter: ExperienceFilter = field(default_factory=ExperienceFilter)
     mock_skip_filter: bool = True
+    saramin_config: SaraminConfig = field(default_factory=SaraminConfig)
+    wanted_config: WantedConfig = field(default_factory=WantedConfig)
 
 
 # ── 로더 함수 ─────────────────────────────────────────────────
@@ -108,11 +146,13 @@ def load_companies(path: Path | None = None) -> list[CompanyConfig]:
     return companies
 
 
-def load_settings(path: Path | None = None) -> tuple[ExperienceFilter, bool]:
+def load_settings(
+    path: Path | None = None,
+) -> tuple[ExperienceFilter, bool, SaraminConfig, WantedConfig]:
     """settings.yaml에서 필터 설정을 로드한다.
 
     Returns:
-        (ExperienceFilter, mock_skip_filter) 튜플
+        (ExperienceFilter, mock_skip_filter, SaraminConfig, WantedConfig) 튜플
     """
     path = path or CONFIG_DIR / "settings.yaml"
     data = _load_yaml(path)
@@ -129,20 +169,57 @@ def load_settings(path: Path | None = None) -> tuple[ExperienceFilter, bool]:
     mock_raw = data.get("mock", {})
     mock_skip = mock_raw.get("skip_filter", True)
 
+    # 사람인 설정
+    sr_raw = data.get("saramin", {})
+    saramin_cfg = SaraminConfig(
+        keywords=sr_raw.get("keywords", "자바 백엔드"),
+        job_cd=str(sr_raw.get("job_cd", "84")),
+        experience_min=int(sr_raw.get("experience_min", 5)),
+        experience_max=int(sr_raw.get("experience_max", 7)),
+    )
+
+    # 원티드 설정
+    wt_raw = data.get("wanted", {})
+    wanted_cfg = WantedConfig(
+        tag_type_ids=str(wt_raw.get("tag_type_ids", "518")),
+        years_min=int(wt_raw.get("years_min", 5)),
+        years_max=int(wt_raw.get("years_max", 7)),
+        keywords=wt_raw.get(
+            "keywords",
+            "자바,Java,백엔드,Backend,서버,Server,스프링,Spring",
+        ),
+    )
+
     logger.info(
         "필터 설정 로드 – 활성: %s, 키워드 %d개",
         exp_filter.enabled,
         len(exp_filter.keywords),
     )
-    return exp_filter, mock_skip
+    logger.info(
+        "사람인 설정 로드 – keywords: %s, job_cd: %s, 경력: %d~%d년",
+        saramin_cfg.keywords,
+        saramin_cfg.job_cd,
+        saramin_cfg.experience_min,
+        saramin_cfg.experience_max,
+    )
+    logger.info(
+        "원티드 설정 로드 – tag: %s, 경력: %d~%d년, keywords: %s",
+        wanted_cfg.tag_type_ids,
+        wanted_cfg.years_min,
+        wanted_cfg.years_max,
+        wanted_cfg.keywords,
+    )
+    return exp_filter, mock_skip, saramin_cfg, wanted_cfg
 
 
 def load_app_settings() -> AppSettings:
     """전체 설정을 한 번에 로드한다."""
     companies = load_companies()
-    exp_filter, mock_skip = load_settings()
+    exp_filter, mock_skip, saramin_cfg, wanted_cfg = load_settings()
     return AppSettings(
         companies=companies,
         experience_filter=exp_filter,
         mock_skip_filter=mock_skip,
+        saramin_config=saramin_cfg,
+        wanted_config=wanted_cfg,
     )

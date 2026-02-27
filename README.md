@@ -14,7 +14,7 @@ backend-job-tracker/
 │   └── job-tracker.yml          # GitHub Actions 스케줄 워크플로우
 ├── config/
 │   ├── companies.yaml           # 🎯 수집 대상 기업 목록
-│   └── settings.yaml            # ⚙️ 경력 필터 키워드 설정
+│   └── settings.yaml            # ⚙️ 경력 필터 + 사람인/원티드 검색 설정
 ├── data/
 │   └── jobs.json                # 수집된 공고 데이터 (자동 생성)
 ├── src/
@@ -30,7 +30,13 @@ backend-job-tracker/
 │   └── sources/
 │       ├── __init__.py
 │       ├── base.py              # 소스 플러그인 추상 클래스
-│       └── mock_source.py       # 샘플 소스 (테스트/데모용)
+│       ├── mock_source.py       # 샘플 소스 (테스트/데모용)
+│       ├── saramin.py           # 사람인 웹 검색 크롤러
+│       ├── wanted.py            # 원티드 API 크롤러
+│       ├── linkedin.py          # 링크드인 크롤러
+│       ├── career_page.py       # 회사 공식 채용 페이지 범용 크롤러
+│       ├── greetinghr.py        # GreetingHR 플랫폼 크롤러
+│       └── playwright_source.py # SPA 사이트 크롤러 (JS 렌더링)
 ├── JOB_TRACKER.md               # 수집 결과 문서 (자동 갱신)
 ├── README.md
 └── requirements.txt
@@ -82,28 +88,45 @@ python src/main.py
 
 ```yaml
 companies:
-  - name: "카카오"
-    source: "wanted"                                    # 소스 플러그인 이름
-    url: "https://www.wanted.co.kr/company/1234/jobs"   # 기업 채용 페이지 URL
-
-  - name: "네이버"
+  # 사람인/원티드 – 검색 기반 수집 (URL 불필요)
+  - name: "사람인 검색"
     source: "saramin"
-    url: "https://www.saramin.co.kr/zf_user/company-info/view?csn=1234567890"
+    url: ""
+
+  - name: "원티드 검색"
+    source: "wanted"
+    url: ""
+
+  # GreetingHR – 기업 채용 페이지 직접 크롤링
+  - name: "카카오페이"
+    source: "greetinghr"
+    url: "https://kakaopay.career.greetinghr.com/ko/main"
+
+  # Playwright – SPA 사이트 (JS 렌더링)
+  - name: "카카오"
+    source: "playwright"
+    url: "https://careers.kakao.com/jobs"
+    selectors:
+      job_list: "a[href*='/jobs/P-']"
+      title: "자체"
+      link: "자체"
 ```
 
 | 필드 | 설명 |
 |------|------|
 | `name` | 회사명 (JOB_TRACKER.md에 표시) |
-| `source` | 소스 플러그인 이름 (`main.py`의 `SOURCE_REGISTRY`와 매칭) |
-| `url` | 기업 채용 페이지 직접 링크 |
+| `source` | 소스 플러그인 이름 (`saramin`, `wanted`, `playwright`, `greetinghr`, `career`, `linkedin`) |
+| `url` | 기업 채용 페이지 직접 링크 (사람인/원티드는 검색 기반이므로 비워둠) |
+| `selectors` | CSS 셀렉터 설정 (playwright, career 소스용) |
 
 > **기업을 추가하려면?** `companies.yaml`에 항목만 추가하면 됩니다. 코드 수정 불필요!
 
-### settings.yaml – 경력 필터
+### settings.yaml
 
-`config/settings.yaml`에서 경력 필터 키워드를 관리합니다:
+`config/settings.yaml`에서 경력 필터 및 **사람인/원티드 검색 조건**을 관리합니다:
 
 ```yaml
+# 경력 필터링 키워드
 experience_filter:
   enabled: true
   level_label: "5-7년"
@@ -114,9 +137,24 @@ experience_filter:
     - "5~7"
     - "경력 5년 이상"
     - "5+ years"
+
+# 사람인 검색 설정
+saramin:
+  keywords: "자바 백엔드"       # 검색 키워드
+  job_cd: "84"                  # 직무코드 (84 = 백엔드/서버개발)
+  experience_min: 5              # 최소 경력 (년)
+  experience_max: 7              # 최대 경력 (년)
+
+# 원티드 검색 설정
+wanted:
+  tag_type_ids: "518"            # 직군 태그 (518 = 개발)
+  years_min: 5                   # 최소 경력 (년)
+  years_max: 7                   # 최대 경력 (년)
+  keywords: "자바,Java,백엔드,Backend,서버,Server,스프링,Spring"
 ```
 
-공고 제목에 키워드 중 하나라도 포함되면 매칭으로 판단합니다.
+- **사람인**: 웹 검색 URL 파라미터로 키워드·직무코드·경력 범위를 지정하여 검색
+- **원티드**: 내부 API(`/api/v4/jobs`)로 직군 태그·경력 범위를 지정하고, 키워드로 제목 필터링
 
 ---
 
@@ -125,7 +163,7 @@ experience_filter:
 ### 1단계: 소스 파일 생성
 
 ```python
-# src/sources/wanted.py
+# src/sources/my_source.py
 
 import requests
 from sources.base import BaseSource
@@ -133,8 +171,8 @@ from models import JobPosting
 from config_loader import CompanyConfig
 
 
-class WantedSource(BaseSource):
-    name = "wanted"  # companies.yaml의 source 필드와 일치
+class MySource(BaseSource):
+    name = "my_source"  # companies.yaml의 source 필드와 일치
 
     def fetch_company(self, company: CompanyConfig) -> list[JobPosting]:
         resp = requests.get(company.url)
@@ -142,15 +180,18 @@ class WantedSource(BaseSource):
         return [JobPosting(source=self.name, company=company.name, ...)]
 ```
 
-### 2단계: SOURCE_REGISTRY에 등록
+### 2단계: main.py에 등록
+
+`_STATIC_SOURCES`에 추가하거나, 설정 의존적이면 `build_source_registry()`에서 초기화합니다:
 
 ```python
 # src/main.py
-from sources.wanted import WantedSource
+from sources.my_source import MySource
 
-SOURCE_REGISTRY: dict[str, BaseSource] = {
+_STATIC_SOURCES: dict[str, BaseSource] = {
     "mock": MockSource(),
-    "wanted": WantedSource(),  # ← 추가
+    "my_source": MySource(),  # ← 추가
+    ...
 }
 ```
 
@@ -158,9 +199,9 @@ SOURCE_REGISTRY: dict[str, BaseSource] = {
 
 ```yaml
 companies:
-  - name: "카카오"
-    source: "wanted"
-    url: "https://www.wanted.co.kr/company/1234/jobs"
+  - name: "회사명"
+    source: "my_source"
+    url: "https://example.com/jobs"
 ```
 
 > **참고**: `BaseSource`에는 지수 백오프 재시도 로직이 내장되어 있어,

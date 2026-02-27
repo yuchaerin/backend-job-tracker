@@ -31,3 +31,29 @@ experience_filter:
 # mock 소스는 필터링을 건너뛰고 모든 공고를 반환한다.
 mock:
   skip_filter: true
+
+# ──────────────────────────────────────────────
+# 사람인 검색 설정
+# ──────────────────────────────────────────────
+# 사람인 웹 검색 URL 파싱 방식으로 공고를 수집한다.
+# keywords: 검색 키워드 (공백 구분)
+# job_cd: 직무 코드 (84 = 백엔드/서버개발)  ※ 코드표: https://oapi.saramin.co.kr/guide/code-table2
+# experience_min / experience_max: 경력 범위 (년)
+saramin:
+  keywords: "자바 백엔드"
+  job_cd: "84"
+  experience_min: 5
+  experience_max: 7
+
+# ──────────────────────────────────────────────
+# 원티드 검색 설정
+# ──────────────────────────────────────────────
+# 원티드 내부 웹 API를 통해 공고를 수집한다.
+# tag_type_ids: 직군 태그 ID (518 = 개발)
+# years_min / years_max: 경력 범위 (년)
+# keywords: 추가 필터 키워드 (쉼표 구분, 제목에서 매칭)
+wanted:
+  tag_type_ids: "518"
+  years_min: 5
+  years_max: 7
+  keywords: "자바,Java,백엔드,Backend,서버,Server,스프링,Spring"

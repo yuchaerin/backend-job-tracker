@@ -122,18 +122,18 @@ companies:
   #   url: "https://www.hanwhain.com/web/job/posting.do"
 
   # ═══════════════════════════════════════════
-  # 실제 소스 (구현 완료, URL만 교체하면 동작)
+  # 사람인 / 원티드 – 검색 기반 수집
   # ═══════════════════════════════════════════
+  # 검색 조건(키워드, 경력 등)은 config/settings.yaml에서 설정
+  # URL은 비워두면 전체 검색 결과를 사용한다.
 
-  # ▸ 원티드 (wanted) – 기업 채용 페이지 URL 입력
-  # - name: "카카오"
-  #   source: "wanted"
-  #   url: "https://www.wanted.co.kr/company/1234/jobs"
+  - name: "사람인 검색"
+    source: "saramin"
+    url: ""
 
-  # ▸ 사람인 (saramin) – 기업정보 페이지 URL 입력
-  # - name: "네이버"
-  #   source: "saramin"
-  #   url: "https://www.saramin.co.kr/zf_user/company-info/view?csn=1234567890"
+  - name: "원티드 검색"
+    source: "wanted"
+    url: ""
 
   # ▸ 링크드인 (linkedin) – 기업 페이지 URL 입력
   # - name: "토스"

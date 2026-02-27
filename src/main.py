@@ -47,15 +47,22 @@ logger = logging.getLogger(__name__)
 # ── 소스 레지스트리 ────────────────────────────────────────────
 # 소스 이름(companies.yaml의 source 필드)과 소스 인스턴스를 매핑한다.
 # 새 소스를 추가하면 여기에 등록하라.
-SOURCE_REGISTRY: dict[str, BaseSource] = {
+# saramin/wanted는 설정 의존적이므로 build_source_registry()에서 초기화된다.
+_STATIC_SOURCES: dict[str, BaseSource] = {
     "mock": MockSource(),
-    "wanted": WantedSource(),
-    "saramin": SaraminSource(),
     "linkedin": LinkedInSource(),
     "career": CareerPageSource(),        # 회사 공식 채용 페이지 범용 크롤러
     "greetinghr": GreetingHRSource(),    # GreetingHR 플랫폼 (카카오페이 등)
     "playwright": PlaywrightSource(),    # SPA 사이트 (JS 렌더링 필요)
 }
+
+
+def build_source_registry(settings: AppSettings) -> dict[str, BaseSource]:
+    """설정에 따라 소스 레지스트리를 생성한다."""
+    registry = dict(_STATIC_SOURCES)
+    registry["saramin"] = SaraminSource(config=settings.saramin_config)
+    registry["wanted"] = WantedSource(config=settings.wanted_config)
+    return registry
 
 
 def collect_all(settings: AppSettings) -> list[JobPosting]:
@@ -71,10 +78,13 @@ def collect_all(settings: AppSettings) -> list[JobPosting]:
     for company in settings.companies:
         source_groups[company.source].append(company)
 
+    # 설정 기반 소스 레지스트리 생성
+    source_registry = build_source_registry(settings)
+
     all_jobs: list[JobPosting] = []
 
     for source_name, companies in source_groups.items():
-        source = SOURCE_REGISTRY.get(source_name)
+        source = source_registry.get(source_name)
         if source is None:
             logger.warning(
                 "소스 '%s'가 레지스트리에 없음 – 해당 기업 %d개 건너뜀: %s",
