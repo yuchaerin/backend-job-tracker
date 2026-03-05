@@ -226,3 +226,36 @@ class SaraminSource(BaseSource):
             url=href,
             date_found=today,
         )
+
+    def fetch_description(self, job: JobPosting, selectors: dict[str, str] | None = None) -> str:
+        """사람인 상세 페이지에서 공고 설명을 가져온다."""
+        if not job.url:
+            return ""
+
+        # selectors에 description 셀렉터가 있으면 사용
+        desc_sel = (selectors or {}).get("description")
+        fallback_selectors = [
+            "div.user_content",
+            "div.wrap_jv_cont",
+            "div.jv_detail",
+            "div.cont",
+        ]
+
+        try:
+            resp = requests.get(job.url, headers=_HEADERS, timeout=15)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            if desc_sel:
+                area = soup.select_one(desc_sel)
+                if area:
+                    return area.get_text(separator="\n", strip=True)
+
+            for sel in fallback_selectors:
+                area = soup.select_one(sel)
+                if area:
+                    return area.get_text(separator="\n", strip=True)
+            return ""
+        except Exception as exc:
+            logger.debug("[saramin] 상세 조회 실패: %s", exc)
+            return ""

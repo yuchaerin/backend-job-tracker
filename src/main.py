@@ -35,6 +35,7 @@ from sources.playwright_source import PlaywrightSource
 from sources.saramin import SaraminSource
 from sources.wanted import WantedSource
 from storage import compute_diff, load_jobs, save_jobs
+from description_fetcher import enrich_descriptions
 
 # ── 로깅 설정 ──────────────────────────────────────────────────
 logging.basicConfig(
@@ -150,17 +151,27 @@ def run() -> None:
     # 4. 전체 목록 = 신규 + 유지 (삭제된 것은 제외)
     all_current = diff.all_current_jobs
 
-    # 5. 데이터 저장
+    # 5. 상세 설명(description) 보강 – 신규 공고만 크롤링
+    source_registry = build_source_registry(settings)
+    company_selectors = {c.name: c.selectors for c in settings.companies if c.selectors}
+    enrich_descriptions(
+        all_current,
+        source_registry=source_registry,
+        company_selectors=company_selectors,
+        previous_jobs=previous_jobs,
+    )
+
+    # 6. 데이터 저장
     save_jobs(all_current)
 
-    # 6. JOB_TRACKER.md 갱신
+    # 7. JOB_TRACKER.md 갱신
     write_markdown(diff, all_current)
 
-    # 7. 이메일 알림 (신규 공고가 있을 때만)
+    # 8. 이메일 알림 (신규 공고가 있을 때만)
     if diff.new_jobs:
         send_email(diff.new_jobs)
 
-    # 8. 요약 출력
+    # 9. 요약 출력
     logger.info("=" * 60)
     logger.info(
         "실행 완료 – 신규: %d건, 삭제: %d건, 유지: %d건, 전체: %d건",

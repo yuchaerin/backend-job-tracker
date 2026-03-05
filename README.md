@@ -23,19 +23,20 @@ backend-job-tracker/
 │   ├── config_loader.py         # YAML 설정 로더
 │   ├── models.py                # 데이터 모델 (JobPosting, DiffResult)
 │   ├── storage.py               # JSON 데이터 읽기/쓰기 및 diff 로직
-│   ├── markdown.py              # JOB_TRACKER.md 마크다운 생성
+│   ├── markdown.py              # JOB_TRACKER.md 마크다운 생성 + 기술 스택 분석
+│   ├── description_fetcher.py   # 공고 상세 설명 크롤링 오케스트레이터
 │   ├── notify/
 │   │   ├── __init__.py
 │   │   └── emailer.py           # 이메일 알림 (SMTP)
 │   └── sources/
 │       ├── __init__.py
-│       ├── base.py              # 소스 플러그인 추상 클래스
+│       ├── base.py              # 소스 플러그인 추상 클래스 (fetch_description 포함)
 │       ├── mock_source.py       # 샘플 소스 (테스트/데모용)
-│       ├── saramin.py           # 사람인 웹 검색 크롤러
-│       ├── wanted.py            # 원티드 API 크롤러
+│       ├── saramin.py           # 사람인 웹 검색 크롤러 + 상세 페이지 파싱
+│       ├── wanted.py            # 원티드 API 크롤러 + 상세 API 조회
 │       ├── linkedin.py          # 링크드인 크롤러
 │       ├── career_page.py       # 회사 공식 채용 페이지 범용 크롤러
-│       ├── greetinghr.py        # GreetingHR 플랫폼 크롤러
+│       ├── greetinghr.py        # GreetingHR 플랫폼 크롤러 + 상세 페이지 파싱
 │       └── playwright_source.py # SPA 사이트 크롤러 (JS 렌더링)
 ├── JOB_TRACKER.md               # 수집 결과 문서 (자동 갱신)
 ├── README.md
@@ -117,7 +118,20 @@ companies:
 | `name` | 회사명 (JOB_TRACKER.md에 표시) |
 | `source` | 소스 플러그인 이름 (`saramin`, `wanted`, `playwright`, `greetinghr`, `career`, `linkedin`) |
 | `url` | 기업 채용 페이지 직접 링크 (사람인/원티드는 검색 기반이므로 비워둠) |
-| `selectors` | CSS 셀렉터 설정 (playwright, career 소스용) |
+| `selectors` | CSS 셀렉터 설정 (아래 참고) |
+
+**selectors 상세:**
+
+| 셀렉터 키 | 용도 | 지원 소스 |
+|-----------|------|----------|
+| `job_list` | 공고 목록 컨테이너 | `playwright`, `career` |
+| `title` | 공고 제목 | `playwright`, `career` |
+| `link` | 상세 링크 | `playwright`, `career` |
+| `description` | 상세 페이지 설명 영역 (선택) | `saramin`, `greetinghr`, `playwright` |
+| `location` | 근무지 (선택) | `playwright`, `career` |
+| `experience` | 경력 조건 (선택) | `playwright`, `career` |
+
+> `description` 셀렉터를 지정하지 않으면 각 소스의 기본 폴백 셀렉터를 사용합니다.
 
 > **기업을 추가하려면?** `companies.yaml`에 항목만 추가하면 됩니다. 코드 수정 불필요!
 
@@ -178,6 +192,14 @@ class MySource(BaseSource):
         resp = requests.get(company.url)
         # 파싱 로직...
         return [JobPosting(source=self.name, company=company.name, ...)]
+
+    def fetch_description(self, job: JobPosting, selectors=None) -> str:
+        """공고 상세 페이지에서 설명을 가져온다 (선택 구현)."""
+        desc_sel = (selectors or {}).get("description", "div.job-desc")
+        resp = requests.get(job.url)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        area = soup.select_one(desc_sel)
+        return area.get_text(strip=True) if area else ""
 ```
 
 ### 2단계: main.py에 등록
@@ -202,10 +224,12 @@ companies:
   - name: "회사명"
     source: "my_source"
     url: "https://example.com/jobs"
+    selectors:
+      description: "div.job-desc"    # 상세 설명 영역 (선택)
 ```
 
-> **참고**: `BaseSource`에는 지수 백오프 재시도 로직이 내장되어 있어,
-> 네트워크 실패 시 자동으로 최대 3회 재시도합니다.
+> **참고**: `BaseSource`에는 지수 백오프 재시도 로직과 `fetch_description` 기본 구현이 내장되어 있어,
+> 네트워크 실패 시 자동으로 최대 3회 재시도하고, description 미구현 시에도 안전하게 동작합니다.
 
 ---
 
@@ -228,6 +252,11 @@ schedule:
 2. Python 3.11 설정
 3. 의존성 설치
 4. python src/main.py 실행
+   a. 이전 데이터(jobs.json) 로드
+   b. 각 소스에서 공고 수집
+   c. 변경 감지 (신규/삭제/유지)
+   d. 신규 공고 상세 설명(description) 크롤링
+   e. 기술 스택 분석 및 JOB_TRACKER.md 생성
 5. JOB_TRACKER.md / data/jobs.json 변경 시에만 커밋 & 푸시
 ```
 
@@ -276,6 +305,28 @@ export MAIL_TO=me@gmail.com
 
 python src/main.py
 ```
+
+---
+
+## 📊 기술 스택 분석
+
+`JOB_TRACKER.md`에 수집된 공고의 기술 스택 빈도를 자동으로 분석하여 bar 차트로 표시합니다.
+
+- 공고 **제목 + 상세 설명**에서 기술 키워드를 추출
+- 상위 5개 기술은 개별 표시, 나머지는 **"그 외"** 로 묶어서 표현
+- 20개 이상의 기술 키워드 매칭 (Java, Spring, Kotlin, AWS, Kubernetes 등)
+
+```
+  Java        ██████████████████████████████ 63% (47건)
+  Spring      ████████████████████████████ 59% (10건)
+  Kotlin      █████████████ 27% (4건)
+  AWS         ████████████ 25% (3건)
+  Kubernetes  ███████ 15% (3건)
+  그 외         ██ 5% (13건)
+```
+
+> 상위 표시 수는 `markdown.py`의 `TOP_TECH_COUNT` 상수로 조정 가능합니다.
+> 키워드를 추가/변경하려면 `TECH_KEYWORDS` 리스트를 수정하세요.
 
 ---
 

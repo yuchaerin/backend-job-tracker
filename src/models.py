@@ -35,6 +35,7 @@ class JobPosting:
     level: str = "5-7년"
     location: str = ""
     url: str = ""
+    description: str = ""
     date_found: str = field(default_factory=lambda: date.today().isoformat())
     unique_key: str = ""
 

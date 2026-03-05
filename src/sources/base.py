@@ -83,6 +83,21 @@ class BaseSource(ABC):
         """
         ...
 
+    def fetch_description(self, job: JobPosting, selectors: dict[str, str] | None = None) -> str:
+        """공고 상세 페이지에서 description(상세 설명)을 가져온다.
+
+        기본 구현은 빈 문자열을 반환한다.
+        서브클래스에서 오버라이드하여 소스별 로직을 구현한다.
+
+        Args:
+            job: description을 가져올 공고
+            selectors: companies.yaml의 selectors 설정 (description 키 포함 가능)
+
+        Returns:
+            상세 설명 텍스트 (없으면 빈 문자열)
+        """
+        return ""
+
     def fetch_company_with_retry(self, company: CompanyConfig) -> list[JobPosting]:
         """재시도 로직이 포함된 기업별 수집 메서드.
 

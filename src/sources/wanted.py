@@ -225,3 +225,27 @@ class WantedSource(BaseSource):
             url=url,
             date_found=today,
         )
+
+    def fetch_description(self, job: JobPosting, selectors: dict[str, str] | None = None) -> str:
+        """원티드 상세 API에서 공고 설명을 가져온다."""
+        if "/wd/" not in job.url:
+            return ""
+        job_id = job.url.rstrip("/").split("/wd/")[-1]
+        if not job_id.isdigit():
+            return ""
+
+        api_url = f"{_API_BASE}/{job_id}"
+        try:
+            resp = requests.get(api_url, headers=_HEADERS, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+            job_detail = data.get("job", {}).get("detail", {})
+            parts = []
+            for key in ("requirements", "main_tasks", "intro", "preferred_points"):
+                text = job_detail.get(key, "")
+                if text:
+                    parts.append(text)
+            return "\n".join(parts)
+        except Exception as exc:
+            logger.debug("[wanted] 상세 조회 실패 (id=%s): %s", job_id, exc)
+            return ""
