@@ -3,39 +3,52 @@
 > **백엔드 5~7년차 이직공고**를 자동으로 수집하여 정리합니다.
 >
 > - 실행 스케줄: 매일 **12:00 / 18:00 (KST)** (GitHub Actions)
-> - 마지막 업데이트: `2026-03-17 13:54:53 KST`
-> - 전체 공고 수: **275건**
+> - 마지막 업데이트: `2026-03-17 19:07:08 KST`
+> - 전체 공고 수: **362건**
 
 ---
 
 ## 🆕 New (최근 추가)
 
-> 이번 실행에서 **8건**의 신규 공고가 발견되었습니다.
+> 이번 실행에서 **153건**의 신규 공고가 발견되었습니다.
+> (상위 20건만 표시)
 
 | DateFound | Source | Company | Title | Level | Location | Link |
 |-----------|--------|---------|-------|-------|----------|------|
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 AI 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205613) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 SLAM 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205618) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 E/E 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205635) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 HW 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205630) |
-| 2026-03-17 | playwright | 네이버 | [네이버웹툰] EN Webtoon Growth&Marketing (체험형 인턴)모집 부서Service & Business모집 분야Content Development모집 경력신입근로 조건인턴모집 기간2026.03.16 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
-| 2026-03-17 | playwright | 네이버 | [네이버웹툰] 네이버 시리즈 콘텐츠 기획 마케터 (체험형 인턴)모집 부서Service & Business모집 분야Content Development모집 경력신입근로 조건인턴모집 기간2026.03.06 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
-| 2026-03-17 | wanted | 디에스알브이랩스(DSRV) | 백엔드 개발자(Back-End Developer)(5년 이상) - 경력 5년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348465) |
-| 2026-03-17 | wanted | 유모스원 | Backend Engineer (TMS) - 경력 5년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348459) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 AI 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205613) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 SLAM 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205618) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 E/E 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205635) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 HW 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205630) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 측위(Localization/Positioning) research scientist (R&D) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/188606) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | AI 엔지니어 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/167192) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | SLAM research scientist (R&D) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/199461) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 머신러닝 research scientist (R&D) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/148119) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 데이터분석가 (Data Analyst) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205879) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 백엔드 개발자(택시 서비스) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/145584) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 리크루팅 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204888) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 자율주행개발팀 데이터 라벨링 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204544) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 자율주행 학습데이터 수집 드라이버 (주간) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204003) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 서비스운영파트 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203621) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 보안점검(모의해킹)/취약점점검 전문가 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203534) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 백엔드 개발자(주차 플랫폼 개발) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203492) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 사내 변호사 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/202734) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] P&C플랫폼사업팀 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/202282) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 서비스 운영 기획자 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/199410) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 데이터 사이언티스트 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/197728) |
 
 ---
 
 ## 📊 Backend 공고 분석
 
-> 전체 **275건**의 공고에서 언급된 기술 스택 빈도입니다.
+> 전체 **362건**의 공고에서 언급된 기술 스택 빈도입니다.
 
 ```
-  AWS         █████ 21% (58건)
-  Spring      █████ 19% (53건)
-  Java        █████ 19% (52건)
-  MySQL       ███ 13% (35건)
-  Kubernetes  ███ 12% (33건)
-  그 외         ██████████████████████████████ 107% (294건)
+  Java        ████████ 25% (89건)
+  AWS         ██████ 17% (63건)
+  Spring      █████ 16% (59건)
+  Kubernetes  ███ 10% (35건)
+  Python      ███ 9% (34건)
+  그 외         ██████████████████████████████ 84% (305건)
 ```
 
 ---
@@ -44,46 +57,168 @@
 
 | DateFound | Source | Company | Title | Level | Location | Link |
 |-----------|--------|---------|-------|-------|----------|------|
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 AI 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205613) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 SLAM 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205618) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 E/E 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205635) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 HW 엔지니어 (R&D) - 경력 3년 이상 | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205630) |
-| 2026-03-17 | playwright | 네이버 | [네이버웹툰] EN Webtoon Growth&Marketing (체험형 인턴)모집 부서Service & Business모집 분야Content Development모집 경력신입근로 조건인턴모집 기간2026.03.16 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
-| 2026-03-17 | playwright | 네이버 | [네이버웹툰] 네이버 시리즈 콘텐츠 기획 마케터 (체험형 인턴)모집 부서Service & Business모집 분야Content Development모집 경력신입근로 조건인턴모집 기간2026.03.06 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
-| 2026-03-17 | wanted | 디에스알브이랩스(DSRV) | 백엔드 개발자(Back-End Developer)(5년 이상) - 경력 5년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348465) |
-| 2026-03-17 | wanted | 유모스원 | Backend Engineer (TMS) - 경력 5년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348459) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 AI 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205613) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 SLAM 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205618) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 E/E 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205635) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 자율주행 HW 엔지니어 (R&D) | 5-7년 | 집중채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205630) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 측위(Localization/Positioning) research scientist (R&D) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/188606) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | AI 엔지니어 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/167192) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | SLAM research scientist (R&D) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/199461) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 머신러닝 research scientist (R&D) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/148119) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 데이터분석가 (Data Analyst) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205879) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 백엔드 개발자(택시 서비스) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/145584) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 리크루팅 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204888) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 자율주행개발팀 데이터 라벨링 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204544) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 자율주행 학습데이터 수집 드라이버 (주간) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204003) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 서비스운영파트 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203621) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 보안점검(모의해킹)/취약점점검 전문가 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203534) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 백엔드 개발자(주차 플랫폼 개발) | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203492) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 사내 변호사 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/202734) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] P&C플랫폼사업팀 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/202282) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 서비스 운영 기획자 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/199410) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 데이터 사이언티스트 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/197728) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 웹 프론트엔드 개발자 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/196106) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 데이터 엔지니어 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/195341) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | QA 엔지니어 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/187114) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 사업기획 담당자 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/182832) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] Agent사업팀 업무 보조 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/172719) |
+| 2026-03-17 | greetinghr | 카카오모빌리티 | 물류 & 에이전트 개발실 백엔드 개발자 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/160926) |
+| 2026-03-17 | playwright | 카카오 | LLM Research Engineer (신입/경력)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14403?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
+| 2026-03-17 | saramin | (주)인공지능팩토리 | 자바 백엔드경력 채용 - 경력 1~5년 | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53306172&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주) 케인앤클루컨설팅 | 자바 백엔드프로그램 개발 대리~과(차)장급 경력사원 모집 (4명 - 경력 7~16년 | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53321007&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)이파피루스 | [판교/글로벌기업] 백엔드 개발자 (Java) - 경력 3~15년 | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53107721&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 파콤(주) | [정규직][정부과제] 모니터링시스템 JAVA Spring 백앤드개발모집 - 경력 2~5년 | 5-7년 | 경기수원시 장안구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53262052&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)처음소프트 | [처음소프트] IT개발(JAVA·백엔드외) 경력직 개발자 채용 - 경력 3~10년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53144568&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)코닉글로리 | Java/Spring Boot 백엔드 개발자 채용 - 경력 4~10년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53329727&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 한국가이던스 | 풀스택(BE/FE), 백엔드/프론트,JAVA 개발자,경력직(배포경험) - 신입·경력 | 5-7년 | 대구달서구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53286456&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)이파피루스 | 백엔드 개발자(JAVA / 3~15년 / 팀원) - 경력 3~15년 | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53162307&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 주식회사 히타치터미널솔루션즈코리아 | Back End 개발자 채용 (Java/Spring Boot) - 경력 1~9년 | 5-7년 | 경기화성시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53184063&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)엑스큐어넷 | 시니어 백엔드 개발자(Java / Spring) 채용 - 경력 7~15년 | 5-7년 | 서울은평구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53291797&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)이파피루스 | [판교/글로벌기업] 백엔드 개발자 (Java/팀장급) - 경력 7~15년 | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53349799&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)키스템프그룹 | [이커머스거래중개] Java백엔드(PG결제연동/정산/관리자페이지) - 경력6년↑ | 5-7년 | 서울양천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53231212&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 텔코웨어(주) | [텔코웨어]  Java 백엔드 개발 경력사원 채용공고 - 경력 7~9년 | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53300858&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)센트비 | Backend Engineer (Go/Java) - Middle - 경력 2~7년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53256890&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)메인라인 | Java 백엔드 개발자(대리~과장급) 채용 - 경력5년↑ | 5-7년 | 서울마포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53255088&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)올마이투어 | [올마이투어] Java Back-End Engineer 정규직(경력) 채용 - 경력 5~10년 | 5-7년 | 서울종로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53303061&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)제이투이 | [JAVA/KOTLIN SM 선릉역] 대기업 패션몰 운영(백엔드) (5) - 경력7년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53261714&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 로버트월터스코리아(주) | [IT/엔지니어] Backend Engineer Java spring - 경력6년↑ | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53327210&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)스너그스튜디오 | [백엔드] JAVA 개발자 5~13년 경력 모집 - 경력 5~13년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53330741&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)코비그룹 | Backend Engineer (Java/Kotlin) - 경력 5~15년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53196238&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 주식회사 에임넥스트 | 백엔드 개발자(Java, Spring, AWS 기반) - 경력5년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53327491&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 좋은엄마인터내셔널 | 금융 Java Spring 백엔드 개발자 (3년 이상, 계약직) - 경력 3~8년 | 5-7년 | 인천연수구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53328849&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)이파피루스 | Backend 개발자 (Java/팀장급) - 경력 7~15년 | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53263591&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 송암시스콤(주) | Java 기반 백엔드/서버개발자 경력 - 경력 5~15년 | 5-7년 | 전남나주시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53236828&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)제네시스네스트 | Java(Back-End)개발자 [경력 3~8년] - 경력 3~8년 | 5-7년 | 경기용인시 수지구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53214442&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)센트비 | Sr. Backend Engineer (Go/Java) - 경력 6~20년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53108002&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)와따에이아이 | Java 백엔드 개발자 (5-10년) - 경력 5~10년 | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53302565&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)센트비 | Backend Engineer (Java/Kotlin) - 경력 4~13년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53108021&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)투비파트너즈 | [헬스케어/빅데이터 플랫폼] 백엔드/풀스택 (JAVA,Spring) 3-7년 - 경력 3~7년 | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53269104&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 동진상선(주) | 동진상선㈜ 전산담당(정규직) 및 수입업무담당(계약직) 채용 - 신입·경력 | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53321448&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)엠피씨플러스 | [본사] 웹개발자 경력직 채용 - 경력 4~6년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53320721&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | ㈜토탈소프트뱅크 | 소프트웨어 신입,경력 개발자 모집 - 신입·경력 | 5-7년 | 부산해운대구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53231288&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 씨앤토트(주) | 소프트웨어 개발자 모집 (경력) - 경력 3~20년 | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53344760&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 드림소프트웨어(주) | 드림소프트웨어(주)에서 웹개발(Java) 개발자를 찾고 있어요 - 신입·경력 | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53277001&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)누리어시스템 | [금융SI, SM] Java, JSP 경력직 웹 개발자를 모십니다. - 경력 3~7년 | 5-7년 | 경기하남시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53349172&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)엠트리센 | 풀스택 개발자 경력 - 경력 3~10년 | 5-7년 | 서울금천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53348158&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)몽키소프트 | [중급/3년이상] 풀스택 개발자 채용 - 경력 3~7년 | 5-7년 | 서울금천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53343415&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)알라딘커뮤니케이션 | 개발2팀 백엔드 엔지니어 - 경력 5~10년 | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53057702&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)알라딘커뮤니케이션 | 개발1팀 백엔드 엔지니어 - 경력7년↑ | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53057691&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | (주)알라딘커뮤니케이션 | [프리랜서] B2B 커머스 플랫폼 구축 백엔드 개발자 - 경력5년↑ | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53188554&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=5cbd96dd-f665-4f3c-ba9c-fb84390a2455) |
+| 2026-03-17 | saramin | 나이스평가정보(주) | [NICE평가정보] 배치 서비스(백엔드) 개발자 경력직 채용 - 경력6년↑ | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53274477&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)메디트 | [MEDIT] Backend 개발자 (AWS) - 경력 5~15년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53303181&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)이노룰스 | 보험/금융 관련 Java 개발자 경력 모집 - 경력5년↑ | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53010766&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)이글루코퍼레이션 | 웹어플리케이션 백엔드 개발자(2년↑) - 경력 2~5년 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53142971&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 동국시스템즈(주) | [동국시스템즈] MES 시스템 운영 담당자 채용 (당진) - 경력 2~8년 | 5-7년 | 충남당진시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53305810&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)네비웍스 | 웹 어플리케이션 개발자 - 경력 1~10년 | 5-7년 | 경기전체 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53235409&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)자이오넥스 | Low-Code 기반 PLM 솔루션 개발 연구원 채용 - 신입·경력 | 5-7년 | 서울마포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53255028&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)사이버다임 | DCS개발/운영지원본부 (신입/경력) 개발자 모집 - 신입·경력 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53029370&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)아이씨디 | (주)아이씨디 플랫폼개발팀 신입/경력 채용 - 신입·경력 | 5-7년 | 경기안성시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53113467&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)바이오톡스텍 | (주)바이오톡스텍 IT 프로젝트 매니저 공개채용 - 경력5년↑ | 5-7년 | 충북청주시 청원구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53258112&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)아이티아이즈 | [코스닥 상장사] (경력/정규직) 금융시스템 개발자 채용 - 경력 5~20년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53293199&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 교보증권(주) | 교보증권 Quant운용부 경력직 공개채용 - 경력 4~12년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53317163&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | ㈜다날 | [다날] Payment 정산 플랫폼 백엔드 개발자 채용 (경력) - 경력5년↑ | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53340433&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)엑셈 | [개발/엔지니어] Go / Java / C / 엔지니어 - 신입·경력 | 5-7년 | 서울강서구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53215694&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 상상스토리(주) | [상상스토리] 연구소-시스템 개발/유지보수 경력개발자 채용 - 경력 2~6년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53111655&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)디오티스 | IT 강소기업 서버 개발자 채용 - 경력 7~15년 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53341869&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)팬딩 | 백엔드 개발자 - 경력 2~10년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53151222&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)와이즈버즈 | [다우키움계열사 ㈜와이즈버즈] 백엔드 개발자 (5년이상) 채용 - 경력5년↑ | 5-7년 | 경기성남시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53245853&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)소프트넷 | JAVA 개발자 채용[3~5년] - 경력 3~5년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53345371&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)사람인에이치에스 | [코스피상장사] 증권사 MTS 개발팀 채용 - 경력 3~5년 | 5-7년 | 서울마포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53282002&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 엔에이치엔케이씨피 | [NHN KCP] 백엔드(API) 개발 담당 - 경력 3~6년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53307283&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)우보재난시스템 | (주)우보재난시스템 백엔드 개발자 모집 - 경력5년↑ | 5-7년 | 경기성남시 중원구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53017462&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 유한테크노스(주) | JAVA 웹개발 경력자 채용 - 경력 3~15년 | 5-7년 | 서울강서구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53220117&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 유디에스(주) | 유디에스(주) 2026년 1분기 채용 (Windchill 개발자) - 경력5년↑ | 5-7년 | 경기성남시 수정구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53287199&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 디딤365(주) | 빅데이터 플랫폼 개발자 경력직 채용 - 경력 3~6년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53356505&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)엔에이피에스 | 중급이상  SW 개발 경력자 모집 - 경력7년↑ | 5-7년 | 경기부천시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53347969&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)올레이어 | [올레이어] SailPoint 엔지니어 및 아키텍트 채용 - 신입·경력 | 5-7년 | 서울서대문구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53330664&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)인터엑스 | [울산]백엔드(Backend)개발자 - 신입·경력 | 5-7년 | 울산중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53217916&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)만사시스템 | (주)만사시스템 풀스택(Full Stack) 개발자 경력 채용 공고 - 경력7년↑ | 5-7년 | 서울금천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53351892&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)아인잡 | 백엔드 개발자 (경력) - 경력 3~10년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53170772&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)클러쉬 | [중/고급] 클러쉬 백엔드, 프론트엔드, 풀스택 경력 개발자 채용 - 경력5년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53329261&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)뉴플로이 | 소프트웨어 엔지니어 채용 - 신입·경력 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53257960&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)에이피에스 | [APS] IT운영/개발 엔지니어 채용(대리급) - 경력 4~6년 | 5-7년 | 경기화성시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53314096&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)케이비헬스케어 | [KB금융그룹 계열] KB헬스케어 백엔드 개발자 채용 - 경력5년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53360686&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)누리어시스템 | [기술연구소] 솔루션(Java, jsp) 개발자 채용 - 경력 3~6년 | 5-7년 | 경기하남시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53294704&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)넥스트코드 | [경력-React·Python] 제약회사 AI 에이전트 개발 프리랜서 모집 - 경력 3~15년 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53345034&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 하마인포(주) | 국가정보자원관리원(대전광주대구)운영/유지보수/구축 인력모집 - 신입·경력 | 5-7년 | 대구동구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53142893&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 마이데이터(주) | 삼성전자 갤럭시스토어 개발자 모집  (Java/SpringBoot/AWS) - 경력6년↑ | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53346634&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)알엠에쓰플렛폼 | 플랫폼 서비스 개발 리더(팀장급) 모집 - 경력 7~20년 | 5-7년 | 서울마포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53263584&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | (주)아이타이쿤 | 2026년 상반기 아이타이쿤 개발자 채용(정규직-대리급) - 경력 2~6년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53277999&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=8bffedf0-b10a-49a2-acbb-b4fe11c7c7f2) |
+| 2026-03-17 | saramin | 보미오라한의원 | 쇼핑몰/헬스케어 서비스 개발자 - 경력 3~10년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53317161&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)픽셀소프트웨어 | [픽셀소프트웨어] Backend 개발자 채용 - 경력 2~5년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53289799&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)블룸에이아이 | [블룸에이아이] 솔루션 유지보수 엔지니어 채용 - 경력7년↑ | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53348682&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)아워홈 | 아워홈 SCM IT개발·운영 담당자 - 경력 3~10년 | 5-7년 | 서울강서구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53363256&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 포인트아이(주) | [신입/경력] AI 모델/빅데이터 개발자 - 신입·경력 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53195749&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)쇼엠 | [서울 가산]앱 개발자 경력직 채용 - 경력 3~10년 | 5-7년 | 서울금천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53214610&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 어벤투스모빌리티(주) | 어벤투스모빌리티(주) 소프트웨어 개발자 모집 (상반기) - 경력 3~15년 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53247431&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)마이링크 | [2026년 채용] 제조 AI·Smart Factory 솔루션 Java 웹 개발자 - 경력 4~20년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53157136&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)아이이에이 | WCS Client 풀스택 개발자 채용(C#, .Net, Java) - 경력 2~9년 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53302253&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)제로웹 | [부산본사] 백엔드 개발자 채용 - 경력5년↑ | 5-7년 | 부산해운대구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53325457&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)제로웹 | [부산본사] 풀스택 개발자(경력) 채용 - 경력5년↑ | 5-7년 | 부산해운대구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53325414&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)다섯시 | (주)다섯시에서 PMS 시스템 백엔드 개발자를 찾고 있어요 - 경력 3~10년 | 5-7년 | 경기성남시 중원구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53339510&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 주식회사이아나이코리아 | [(주)이아나이코리아] 풀스택 개발자 채용(재택근무) - 경력 2~10년 | 5-7년 | 인천연수구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53261147&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)몽키소프트 | [경력7년이상] 프로젝트 기술 리드 채용 - 경력 5~10년 | 5-7년 | 서울금천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53343054&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 엔트러스이엔아이(주) | Java 웹개발자(신입/경력) 인재 채용 - 신입·경력 | 5-7년 | 서울서초구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53194173&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)제이엠소프트아이엔씨 | 부산은행 구축 프로젝트 웹서비스 신규 개발 - 경력 3~5년 | 5-7년 | 부산남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53307584&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)비알아이티 | [BRIT] 인프라 & 백엔드 개발자 채용 (경력) - 경력 3~15년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53315843&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)멸치 | [최상위 연봉] (주)멸치 웹개발(프론트/백) 리더급 - 경력7년↑ | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53344376&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)싸이터 | 백엔드 개발자(6-10년 경력) - 경력 6~10년 | 5-7년 | 서울금천구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53345426&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)뱅크엑스 | 시니어 백엔드 팀리드 (7년 이상) - 경력 3~8년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53350112&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)모빈스 | [모빈스 정규직] 보험 플랫폼 Full-Stack 웹 개발자 채용 - 경력 3~10년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53261114&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)블랙라임 | 고(故)팀장 (프론트엔드&백엔드) 개발자 채용 (경력 3년이상) - 경력 3~10년 | 5-7년 | 서울강서구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53295325&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)디코나이 | [㈜디코나이] DT시스템개발팀 경력직 개발자 채용 공고 - 경력 1~5년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53291515&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)어나더닥터 | [의료 AI 회사 어나더닥터] 백엔드 개발자(경력 2년 이상) 구인 - 경력 2~6년 | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53199115&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)옥타솔루션 | 자바 개발자  채용 - 경력 2~5년 | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53256682&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 더치트(주) | 더치트(주) 2026년 상반기 전 부문 경력/신입 채용 - 경력 1~10년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53273571&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 에이치알포유(주) | [] Global 레이더 회사 [] Web 풀스택 개발 - 경력5년↑ | 5-7년 | 경기성남시 수정구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53340989&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)한국지에스티 | 2026년도 1차 개발자(경력) 채용 공고 - 경력 2~5년 | 5-7년 | 서울광진구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53363304&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)휴먼코아 | [한미글로벌] 사내 ERP/업무시스템 유지·보수 개발 채용 - 경력5년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53291523&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)다우기술 | 소프트웨어 아키텍트 - 경력 5~20년 | 5-7년 | 서울마포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53263773&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)클로봇 | 로봇 관제 시스템 백엔드 개발자 - 경력 4~8년 | 5-7년 | 경기성남시 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53347254&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)씨어스테크놀로지 | Backend Software Engineer - 경력 5~20년 | 5-7년 | 경기성남시 분당구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53198676&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)무하유 | 데이터 분석 엔지니어 (3년 이상) - 경력 3~10년 | 5-7년 | 서울성동구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53277919&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)모니터랩 | JAVA 개발자를 모십니다.(경력 5년~10년) - 경력 5~10년 | 5-7년 | 서울구로구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53228775&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)토마토시스템 | [(주)토마토시스템] 분석/설계 채용(경력) - 경력6년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53194259&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)이나인페이 | [E9pay] 전산개발실 서비스(PG, 송금) 개발자 모집 - 경력5년↑ | 5-7년 | 서울관악구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53272682&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)솔로몬텍 | SI 개발자 경력 채용 - 경력7년↑ | 5-7년 | 서울영등포구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53142701&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)이동의즐거움 | [ezl 교통카드]교통카드 단말기 개발관리/Android 개발 채용 - 경력 4~6년 | 5-7년 | 서울중구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53150627&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | (주)진인프라 | [중견IT기업] 풀스택 개발 경력 직원 채용 - 경력 5~10년 | 5-7년 | 서울송파구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53273536&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | saramin | 유한책임회사앤서스랩코리아 | [외국계/게임사]게임 개발자 모집(Developer) - 경력5년↑ | 5-7년 | 서울강남구 | [링크](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=52858550&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=75498825-6f1d-42d4-a33c-e85efb9acf13) |
+| 2026-03-17 | wanted | 플레어랩스 | [플레어레인CRM] 백엔드 개발자 (대규모 트래픽) - 경력 3~20년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348718) |
+| 2026-03-17 | wanted | 빗썸 | Junior Backend Engineer (블록체인) - 경력 3~7년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348682) |
+| 2026-03-17 | wanted | 바딧 | 백엔드 개발자 (5년 이상) - 경력 5년 이상 | 5-7년 | 서울 금천구 | [링크](https://www.wanted.co.kr/wd/348612) |
+| 2026-03-17 | wanted | 버즈니(Buzzni) | [홈쇼핑모아] 서비스 백엔드 엔지니어 (산업기능요원) - 경력 2~7년 | 5-7년 | 서울 관악구 | [링크](https://www.wanted.co.kr/wd/348611) |
+| 2026-03-17 | wanted | 버즈니(Buzzni) | [홈쇼핑모아] 서비스 백엔드 엔지니어 - 경력 2~7년 | 5-7년 | 서울 관악구 | [링크](https://www.wanted.co.kr/wd/348607) |
+| 2026-03-17 | wanted | 룩코 | [에이클로젯] 백엔드 엔지니어 (3년~10년) - 경력 3~10년 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/348590) |
 | 2026-03-17 | greetinghr | 카카오페이 | 사업 담당자 - Stablecoin Business Strategy & Global Partnership - 경력 3년 이상 | 5-7년 | 비즈니스 | [링크](https://kakaopay.career.greetinghr.com/ko/o/196005) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - 카드 결제 서비스 - 경력 5년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/177180) |
-| 2026-03-17 | greetinghr | 카카오페이 | 서버 개발자 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/144295) |
 | 2026-03-17 | greetinghr | 카카오페이 | 서버 개발자 - 결제 서비스 - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/192129) |
-| 2026-03-17 | greetinghr | 카카오페이 | 시스템 엔지니어 - 스토리지 개발 및 운영 (시니어) - 경력 7년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/189881) |
 | 2026-03-17 | greetinghr | 카카오페이 | 프로덕트 엔지니어 - 전사 주요 프로젝트 개발 - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/202310) |
 | 2026-03-17 | greetinghr | 카카오페이 | 사업 담당자 - 보험 상담 채널 서비스 - 경력 3년 이상 | 5-7년 | 비즈니스 | [링크](https://kakaopay.career.greetinghr.com/ko/o/200819) |
 | 2026-03-17 | greetinghr | 카카오페이 | 데이터 엔지니어 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/188595) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - 자산관리 프로덕트 - 경력 4년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/201068) |
-| 2026-03-17 | greetinghr | 카카오페이 | QA 담당자 - 페이 서비스 - 경력 5년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/162033) |
-| 2026-03-17 | greetinghr | 카카오페이 | DB 엔지니어 - PostgreSQL 운영 - 경력 2년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/201094) |
-| 2026-03-17 | greetinghr | 카카오페이 | iOS 개발자 - 클라이언트 서비스 - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/191751) |
-| 2026-03-17 | greetinghr | 카카오페이 | IT 자체감사 담당자 - IT 진단 - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/162177) |
-| 2026-03-17 | greetinghr | 카카오페이 | MLOps 엔지니어 - AI 플랫폼 - 경력 5년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/183231) |
-| 2026-03-17 | greetinghr | 카카오페이 | Observability 개발자 - SRE - 경력 5년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/194604) |
-| 2026-03-17 | greetinghr | 카카오페이 | 데이터 분석가 - 광고 비즈니스 - 경력 5년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/139520) |
 | 2026-03-17 | greetinghr | 카카오페이 | 데이터 사이언티스트 - 데이터 자산화 (대안신용평가) - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/198747) |
-| 2026-03-17 | greetinghr | 카카오페이 | 보안 개발자 - 보안 솔루션 - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/158725) |
-| 2026-03-17 | greetinghr | 카카오페이 | 시스템 엔지니어 - 스토리지 개발 및 운영 (주니어) - 경력 3년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/167118) |
 | 2026-03-17 | greetinghr | 카카오페이 | 프로덕트 엔지니어 - 플랫폼 전략 - 경력 10년 이상 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/203857) |
-| 2026-03-17 | greetinghr | 카카오페이 | [계약직] 브랜드 콘텐츠 PD - 경력 2년 이상 | 5-7년 | 디자인 | [링크](https://kakaopay.career.greetinghr.com/ko/o/191094) |
-| 2026-03-17 | greetinghr | 카카오페이 | UX/UI 디자이너 - 결제/금융 서비스 - 경력 3년 이상 | 5-7년 | 디자인 | [링크](https://kakaopay.career.greetinghr.com/ko/o/169999) |
-| 2026-03-17 | greetinghr | 카카오페이 | UX/UI 디자이너 - 채널 그로스 - 경력 3년 이상 | 5-7년 | 디자인 | [링크](https://kakaopay.career.greetinghr.com/ko/o/187944) |
-| 2026-03-17 | greetinghr | 카카오페이 | 퍼포먼스 디자이너 - VX 디자인 - 경력 1~3년 | 5-7년 | 디자인 | [링크](https://kakaopay.career.greetinghr.com/ko/o/204974) |
-| 2026-03-17 | greetinghr | 카카오페이 | 영업 담당자 - 국내 온라인 결제 제휴 - 경력 5년 이상 | 5-7년 | 비즈니스 | [링크](https://kakaopay.career.greetinghr.com/ko/o/191100) |
 | 2026-03-17 | greetinghr | 카카오페이 | 경영 전략 담당자 - 경력 7년 이상 | 5-7년 | 스탭 | [링크](https://kakaopay.career.greetinghr.com/ko/o/187211) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - AI 플랫폼 - 경력 5년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/203882) |
 | 2026-03-17 | greetinghr | 카카오페이 | PM - Stablecoin Business & Wallet Product - 경력 3년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/206749) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - 대출 서비스 - 경력 5년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/200217) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - 장애대응 및 관리 - 경력 5년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/131198) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - 전사 생산성/업무 효율화 - 경력 10년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/173448) |
-| 2026-03-17 | greetinghr | 카카오페이 | PM - 채널 서비스 - 경력 5년 이상 | 5-7년 | 프로덕트 | [링크](https://kakaopay.career.greetinghr.com/ko/o/190290) |
 | 2026-03-17 | greetinghr | 카카오페이 | [어시스턴트] AICC 고도화 운영 지원 - 신입 | 5-7년 | 신입 | [링크](https://kakaopay.career.greetinghr.com/ko/o/206684) |
 | 2026-03-17 | greetinghr | 카카오페이 | [어시스턴트] 대고객 서비스 배포 운영 지원 - 신입 | 5-7년 | 신입 | [링크](https://kakaopay.career.greetinghr.com/ko/o/206543) |
 | 2026-03-17 | greetinghr | 카카오페이 | [어시스턴트] 대출 마케팅 업무 지원 - 신입 | 5-7년 | 신입 | [링크](https://kakaopay.career.greetinghr.com/ko/o/206665) |
@@ -97,30 +232,8 @@
 | 2026-03-17 | greetinghr | 카카오페이 | 인재 pool - 비즈니스 - 경력 무관 | 5-7년 | 경력 무관 | [링크](https://kakaopay.career.greetinghr.com/ko/o/103675) |
 | 2026-03-17 | greetinghr | 카카오페이 | 인재 pool - 스탭 - 경력 무관 | 5-7년 | 경력 무관 | [링크](https://kakaopay.career.greetinghr.com/ko/o/103673) |
 | 2026-03-17 | greetinghr | 카카오페이 | 인재 pool - 프로덕트 - 경력 무관 | 5-7년 | 경력 무관 | [링크](https://kakaopay.career.greetinghr.com/ko/o/93966) |
-| 2026-03-17 | greetinghr | 카카오페이 | 프론트엔드 개발자 | 5-7년 | 기술 | [링크](https://kakaopay.career.greetinghr.com/ko/o/144322) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 측위(Localization/Positioning) research scientist (R&D) - 경력 5년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/188606) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | AI 엔지니어 - 경력 5년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/167192) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | SLAM research scientist (R&D) - 경력 5년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/199461) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 머신러닝 research scientist (R&D) - 경력 5년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/148119) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 데이터분석가 (Data Analyst) - 경력 1년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/205879) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 백엔드 개발자(택시 서비스) - 경력 3~10년 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/145584) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 리크루팅 업무 보조 - 경력 무관 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204888) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 자율주행개발팀 데이터 라벨링 업무 보조 - 경력 무관 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204544) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 자율주행 학습데이터 수집 드라이버 (주간) - 경력 5년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/204003) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] 서비스운영파트 업무 보조 - 경력 무관 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203621) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 보안점검(모의해킹)/취약점점검 전문가 - 경력 무관 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203534) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 백엔드 개발자(주차 플랫폼 개발) - 경력 3년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/203492) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 사내 변호사 - 경력 1~10년 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/202734) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] P&C플랫폼사업팀 업무 보조 - 경력 무관 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/202282) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Contract] 서비스 운영 기획자 - 경력 3년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/199410) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 데이터 사이언티스트 - 경력 5년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/197728) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 웹 프론트엔드 개발자 - 경력 6년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/196106) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 데이터 엔지니어 - 경력 7년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/195341) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | QA 엔지니어 - 경력 2년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/187114) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 사업기획 담당자 - 경력 0~6년 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/182832) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | [Assistant] Agent사업팀 업무 보조 - 경력 무관 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/172719) |
-| 2026-03-17 | greetinghr | 카카오모빌리티 | 물류 & 에이전트 개발실 백엔드 개발자 - 경력 3년 이상 | 5-7년 | 수시채용 | [링크](https://kakaomobility.career.greetinghr.com/ko/o/160926) |
 | 2026-03-17 | playwright | 카카오 | Multimodal LLM Research Engineer (경력)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14402?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
+| 2026-03-17 | playwright | 카카오 | 추천 시스템 연구/개발 (경력)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14287?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | Machine Learning Engineer (Search) (경력)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14318?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | Machine Learning Engineer (Search) (신입)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14319?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | Agentic AI Platform 개발자 (경력)영입마감일영입종료시근무지직군 태그#Server회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14347?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
@@ -128,7 +241,6 @@
 | 2026-03-17 | playwright | 카카오 | 서비스 안정성 기획 및 운영 담당자 (경력)영입마감일영입종료시근무지직군 태그#기타회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14326?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | Data Scientist (경력)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14324?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | MLOps Engineer (경력)영입마감일영입종료시근무지직군 태그#Server회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14039?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
-| 2026-03-17 | playwright | 카카오 | 추천 시스템 연구/개발 (경력)영입마감일영입종료시근무지직군 태그#Algorithm/ML회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14287?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | 시스템 엔지니어 (경력)영입마감일영입종료시근무지직군 태그#System회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-13952?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | Data Analytics Engineer (경력)영입마감일영입종료시근무지직군 태그#기타회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14276?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
 | 2026-03-17 | playwright | 카카오 | 보이스톡 / 페이스톡 Server 엔지니어 (경력)영입마감일영입종료시근무지직군 태그#Server회사정보카카오직원유형정규직 | 5-7년 |  | [링크](https://careers.kakao.com/jobs/P-14172?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1) |
@@ -161,6 +273,8 @@
 | 2026-03-17 | playwright | 네이버 | [네이버웹툰] US SoX (경력)모집 부서Corporate모집 분야회계모집 경력경력근로 조건정규모집 기간2026.03.12 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버 | [네이버웹툰] KR Webtoon Marketing Manager (경력)모집 부서Service & Business모집 분야Business Development모집 경력경력근로 조건정규모집 기간2026.03.10 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버 | [네이버웹툰] Disney 디지털 코믹스 플랫폼 iOS 개발 (경력)모집 부서Tech모집 분야iOS모집 경력경력근로 조건정규모집 기간2026.03.12 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
+| 2026-03-17 | playwright | 네이버 | [네이버웹툰] EN Webtoon Growth&Marketing (체험형 인턴)모집 부서Service & Business모집 분야Content Development모집 경력신입근로 조건인턴모집 기간2026.03.16 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
+| 2026-03-17 | playwright | 네이버 | [네이버웹툰] 네이버 시리즈 콘텐츠 기획 마케터 (체험형 인턴)모집 부서Service & Business모집 분야Content Development모집 경력신입근로 조건인턴모집 기간2026.03.06 ~ 2026.03.29 | 5-7년 |  | [링크](https://recruit.navercorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버클라우드 | [NAVER Cloud] 메일 BE 개발 (경력)모집 부서Tech모집 분야Backend모집 경력경력근로 조건정규모집 기간2026.03.16 ~ 2026.04.01 | 5-7년 |  | [링크](https://recruit.navercloudcorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버클라우드 | [NAVER Cloud] 영업지원 및 사업관리 (계약)모집 부서Service & Business모집 분야어카운트/세일즈모집 경력경력근로 조건계약모집 기간2026.03.16 ~ 2026.04.01 | 5-7년 |  | [링크](https://recruit.navercloudcorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버클라우드 | [NAVER Cloud] 침해사고 위협대응 엔지니어 (경력)모집 부서Tech모집 분야Security모집 경력경력근로 조건정규모집 기간2026.03.16 ~ 2026.04.01 | 5-7년 |  | [링크](https://recruit.navercloudcorp.com/rcrt/list.do#n) |
@@ -206,20 +320,13 @@
 | 2026-03-17 | playwright | 네이버웹툰 | 네이버웹툰(유) 경력 콘텐츠/서비스/사업 직군 인재Pool모집 부서Service & Business 외모집 분야Content Development 외모집 경력경력근로 조건정규모집 기간상시모집 | 5-7년 |  | [링크](https://recruit.webtoonscorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버웹툰 | 네이버웹툰(유) 경력 개발자 인재 Pool모집 부서Tech모집 분야Backend 외모집 경력경력근로 조건정규모집 기간상시모집 | 5-7년 |  | [링크](https://recruit.webtoonscorp.com/rcrt/list.do#n) |
 | 2026-03-17 | playwright | 네이버웹툰 | [LDF] 프로덕트 디자이너 / Product Designer모집 부서Design모집 분야공통모집 경력신입근로 조건정규모집 기간2026.02.10 ~ 2026.05.31 | 5-7년 |  | [링크](https://recruit.webtoonscorp.com/rcrt/list.do#n) |
-| 2026-03-17 | playwright | 삼성SDS | 2026년 상반기 3급 신입사원 채용 공고 (DX부문) - 신입 | 5-7년 | 삼성전자 DX부문 | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | 2026년 상반기 3급 신입사원 채용 공고 (DS부문) - 신입 | 5-7년 | 삼성전자 DS부문 | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | Samsung Convergence SW Academy 모집 공고 (DX부문) - 신입 | 5-7년 | 삼성전자 DX부문 | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | Samsung Convergence SW Academy 모집 공고 (DS부문) - 신입 | 5-7년 | 삼성전자 DS부문 | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | [Samsung Electronics] Full-time opportunity for international students (DX) - New Employee | 5-7년 | Samsung Electronics DX Division | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | [Samsung Electronics] Full-time opportunity for international students (DS) - New Employee | 5-7년 | Samsung Electronics DS Division | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | 2026년 상반기 3급 신입사원 채용 공고 - 신입 | 5-7년 | 삼성디스플레이 | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | 2026년 상반기 3급 신입사원 채용 공고 - 신입 | 5-7년 | 삼성SDI | [링크](https://www.samsungcareers.com/#none) |
-| 2026-03-17 | playwright | 삼성SDS | 2026년 상반기 3급 신입사원 채용 공고 - 신입 | 5-7년 | 삼성전기 | [링크](https://www.samsungcareers.com/#none) |
 | 2026-03-17 | playwright | 롯데이노베이트 | Recruit | 5-7년 |  | [링크](https://www.lotteinnovate.com/ko/recruit/careers) |
 | 2026-03-17 | playwright | 롯데이노베이트 | 채용공고 | 5-7년 |  | [링크](https://www.lotteinnovate.com/ko/recruit/careers) |
 | 2026-03-17 | playwright | 롯데이노베이트 | 채용절차 | 5-7년 |  | [링크](https://www.lotteinnovate.com/ko/recruit/careers/hr) |
 | 2026-03-17 | playwright | 롯데이노베이트 | 직무소개 | 5-7년 |  | [링크](https://www.lotteinnovate.com/ko/recruit/careers/info) |
 | 2026-03-17 | playwright | 롯데이노베이트 | 인사제도 | 5-7년 |  | [링크](https://www.lotteinnovate.com/ko/recruit/careers/pms) |
+| 2026-03-17 | wanted | 디에스알브이랩스(DSRV) | 백엔드 개발자(Back-End Developer)(5년 이상) - 경력 5년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348465) |
+| 2026-03-17 | wanted | 유모스원 | Backend Engineer (TMS) - 경력 5년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348459) |
 | 2026-03-17 | wanted | 플랜핏 | Backend Developer (1년 이상) - 경력 1~5년 | 5-7년 | 서울 마포구 | [링크](https://www.wanted.co.kr/wd/348365) |
 | 2026-03-17 | wanted | 원프레딕트(onepredict) | Backend Developer(백엔드 개발자) - 경력 3년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/348231) |
 | 2026-03-17 | wanted | 아이센스 | IT 인프라(네트워크/서버) 사원~대리급 - 경력 3~7년 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/348151) |
@@ -268,7 +375,6 @@
 | 2026-03-17 | wanted | 보맵 | 백엔드 개발자 (6~10년) - 경력 6~10년 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/347013) |
 | 2026-03-17 | wanted | 비댁스 | Backend Engineer - 경력 3~6년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/346983) |
 | 2026-03-17 | wanted | 유비케어 | 백엔드 개발 - 경력 3~8년 | 5-7년 | 서울 성동구 | [링크](https://www.wanted.co.kr/wd/346932) |
-| 2026-03-17 | wanted | 셀러스 | PHP 백엔드 개발자 (5년 이상) - 경력 5~11년 | 5-7년 | 부산 해운대구 | [링크](https://www.wanted.co.kr/wd/346927) |
 | 2026-03-17 | wanted | 이스트소프트(ESTsoft) | [ESTsecurity] 엔드포인트 통합 보안 플랫폼 백엔드 개발 (리더급) - 경력 7년 이상 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/346875) |
 | 2026-03-17 | wanted | 에이치티비욘드 | Backend Engineer - 경력 4~10년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/346867) |
 | 2026-03-17 | wanted | 피처링(FeaturingCorp.) | [프로덕트] 백엔드 개발 엔지니어 - 경력 2~5년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/346800) |
@@ -292,7 +398,6 @@
 | 2026-03-17 | wanted | 프롬디 | [버키드] 백엔드(Back-end) 개발 - 경력 0년 이상 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/346114) |
 | 2026-03-17 | wanted | 후플렉스 | [글로벌 모바일 App] Java 백엔드 개발자 - 경력 3~20년 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/346070) |
 | 2026-03-17 | wanted | 씨메스(CMES) | backend (python) 개발자 - 경력 3~10년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/346051) |
-| 2026-03-17 | wanted | 커넥트웨이브 | [스윗트래커] 메시지플랫폼(백엔드) 개발 팀장 - 경력 7년 이상 | 5-7년 | 서울 금천구 | [링크](https://www.wanted.co.kr/wd/346027) |
 | 2026-03-17 | wanted | 큐피스트(글램) | 백엔드 개발자 (Node.js) - 경력 3~12년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/346006) |
 | 2026-03-17 | wanted | 휴먼스케이프 | [마미톡] Backend Engineer - 경력 5~10년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/345982) |
 | 2026-03-17 | wanted | 카카오페이증권(kakaopay증권) | 금융 대외연계시스템 백엔드 개발자(시니어) - 경력 7년 이상 | 5-7년 | 경기 성남시 | [링크](https://www.wanted.co.kr/wd/345859) |
@@ -314,8 +419,3 @@
 | 2026-03-17 | wanted | 브이투브이 | Software Engineer (Backend) - Junior (5년차 미만) - 경력 0~5년 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/345108) |
 | 2026-03-17 | wanted | 하이텍앤솔 | 백엔드 개발자 (책임급) - 경력 7~14년 | 5-7년 | 경기 하남시 | [링크](https://www.wanted.co.kr/wd/345048) |
 | 2026-03-17 | wanted | 하이텍앤솔 | 백엔드 개발자 (선임급) - 경력 3~6년 | 5-7년 | 경기 하남시 | [링크](https://www.wanted.co.kr/wd/345045) |
-| 2026-03-17 | wanted | 어나더닥터 | 백엔드 개발자 (2년 이상) - 경력 2~8년 | 5-7년 | 서울 강남구 | [링크](https://www.wanted.co.kr/wd/345043) |
-| 2026-03-17 | wanted | 한국딥러닝 | [전문연구요원 가능] 백엔드 엔지니어 - 경력 5~15년 | 5-7년 | 서울 서초구 | [링크](https://www.wanted.co.kr/wd/345029) |
-| 2026-03-17 | wanted | 헤리트 | JAVA/JSP, SPRING 개발자 - 경력 2년 이상 | 5-7년 | 경기 성남시 | [링크](https://www.wanted.co.kr/wd/344943) |
-| 2026-03-17 | wanted | 비더에그 | 모루라이브 백엔드 개발자 (4년이상) - 경력 4~8년 | 5-7년 | 서울 성동구 | [링크](https://www.wanted.co.kr/wd/344883) |
-| 2026-03-17 | wanted | 씨제이대한통운(CJ대한통운) | [더운반] 백엔드 개발 3년 이상 - 경력 3~10년 | 5-7년 | 서울 종로구 | [링크](https://www.wanted.co.kr/wd/344874) |
