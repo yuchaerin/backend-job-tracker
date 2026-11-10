@@ -1,14 +1,113 @@
 [
   {
+    "source": "greetinghr",
+    "company": "카카오페이",
+    "title": "[어시스턴트] 언론 PR/커뮤니케이션 업무 지원 - 신입",
+    "level": "5-7년",
+    "location": "신입",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/244247",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "0ebc30e2850b8262"
+  },
+  {
+    "source": "greetinghr",
+    "company": "카카오페이",
+    "title": "프로덕트 매니저 - CS챗봇 & 에이전트 기획/운영 - 경력 2년 이상",
+    "level": "5-7년",
+    "location": "프로덕트",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/244167",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "9003c8167b8007c1"
+  },
+  {
+    "source": "greetinghr",
+    "company": "카카오페이",
+    "title": "프로덕트 매니저 - 보험 플랫폼 서비스 - 경력 2년 이상",
+    "level": "5-7년",
+    "location": "프로덕트",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/244099",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "ab4813f842ae45e3"
+  },
+  {
+    "source": "greetinghr",
+    "company": "카카오페이",
+    "title": "DevOps 엔지니어 - 클러스터 구축/운영 & CICD 파이프라인 개발/운영 - 경력 5년 이상",
+    "level": "5-7년",
+    "location": "기술",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/243571",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "332bfc411fa29415"
+  },
+  {
+    "source": "greetinghr",
+    "company": "카카오페이",
+    "title": "컴플라이언스 담당자 - 준법지원 & 내부통제 - 경력 3년 이상",
+    "level": "5-7년",
+    "location": "스탭",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/243349",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "09d8ea1615cbccbe"
+  },
+  {
+    "source": "greetinghr",
+    "company": "카카오페이",
+    "title": "프로덕트 매니저 - 광고 수익화 & 혜택 서비스 그로스 - 경력 3년 이상",
+    "level": "5-7년",
+    "location": "프로덕트",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/224111",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "15c0d41ec4d6f8d0"
+  },
+  {
     "source": "playwright",
     "company": "네이버",
-    "title": "[NAVER I&S] 소프트웨어 자산·라이선스 운영·기획 담당 (경력)모집 부서Corporate모집 분야자산관리모집 경력경력근로 조건정규모집 기간2026.09.11 ~ 2026.11.30",
+    "title": "[네이버웹툰] Localization Specialist – 일본어 번역 품질 연구개발 (계약직)모집 부서Corporate모집 분야통번역모집 경력경력근로 조건계약모집 기간2026.11.10 ~ 2026.11.29",
     "level": "5-7년",
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "32243c1e1e328e03"
+    "date_found": "2026-11-10",
+    "unique_key": "d2260aede7f0cebd"
+  },
+  {
+    "source": "playwright",
+    "company": "네이버",
+    "title": "[NAVER I&S] 총무/시설인프라 담당 (경력)모집 부서Corporate모집 분야총무모집 경력경력근로 조건정규모집 기간2026.09.14 ~ 2026.11.30",
+    "level": "5-7년",
+    "location": "",
+    "url": "https://recruit.navercorp.com/rcrt/list.do#n",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "8b3b5b8f6a4f9bcb"
+  },
+  {
+    "source": "playwright",
+    "company": "네이버웹툰",
+    "title": "[네이버웹툰] Localization Specialist – 일본어 번역 품질 연구개발 (계약직)모집 부서Corporate모집 분야통번역모집 경력경력근로 조건계약모집 기간2026.11.10 ~ 2026.11.29",
+    "level": "5-7년",
+    "location": "",
+    "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "8d059f8bec7c3bec"
+  },
+  {
+    "source": "playwright",
+    "company": "삼성SDS",
+    "title": "경력사원 채용(유선 고객상담) - 경력",
+    "level": "5-7년",
+    "location": "삼성증권",
+    "url": "https://www.samsungcareers.com/#none",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "48d2e83a2d98036d"
   },
   {
     "source": "saramin",
@@ -16,43 +115,21 @@
     "title": "백엔드 자바 개발자 (경력 6년 이상) - 경력6년↑",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55214581&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55214581&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "97adce60962bc54f"
+    "date_found": "2026-11-10",
+    "unique_key": "3ed8f58bacba367d"
   },
   {
     "source": "saramin",
-    "company": "(주)핀샷",
-    "title": "[글로벌핀테크] 백엔드 웹 개발자 (Java/Spring) 경력직 채용 - 경력 3~5년",
+    "company": "(주)마크애니",
+    "title": "[경력] 백엔드 개발자 (Java/Spring) 채용 - 경력 3~7년",
     "level": "5-7년",
-    "location": "서울마포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55415279&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "location": "서울중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530927&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8a89611bbf7a2f9b"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)제네시스네스트",
-    "title": "Java 백엔드 개발자 [1~8년 미만] - 경력 1~8년",
-    "level": "5-7년",
-    "location": "경기용인시 수지구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55436301&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "2e5d4893efc9602b"
-  },
-  {
-    "source": "saramin",
-    "company": "텔코웨어(주)",
-    "title": "[텔코웨어]  Java 백엔드 개발 경력사원 채용공고 - 경력 3~5년",
-    "level": "5-7년",
-    "location": "서울서초구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55009354&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e1b864bd4887184d"
+    "date_found": "2026-11-10",
+    "unique_key": "49088ecd235fe35f"
   },
   {
     "source": "saramin",
@@ -60,10 +137,43 @@
     "title": "백엔드(JSP/JAVA기반) 경력 개발자 모집 - 경력 1~5년",
     "level": "5-7년",
     "location": "부산영도구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55481744&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55481744&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0c463027dec543c2"
+    "date_found": "2026-11-10",
+    "unique_key": "bf9d4268a02369f9"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)핀샷",
+    "title": "[글로벌핀테크] 백엔드 웹 개발자 (Java/Spring) 경력직 채용 - 경력 3~5년",
+    "level": "5-7년",
+    "location": "서울마포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55415279&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "7a543810c6b0a99c"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)제네시스네스트",
+    "title": "Java 백엔드 개발자 [1~8년 미만] - 경력 1~8년",
+    "level": "5-7년",
+    "location": "경기용인시 수지구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55436301&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "10c22cbc602f3884"
+  },
+  {
+    "source": "saramin",
+    "company": "텔코웨어(주)",
+    "title": "[텔코웨어]  Java 백엔드 개발 경력사원 채용공고 - 경력 3~5년",
+    "level": "5-7년",
+    "location": "서울서초구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55535764&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "8c1c85fe6f17f322"
   },
   {
     "source": "saramin",
@@ -71,65 +181,10 @@
     "title": "B2C 백엔드 개발자(Java/Spring Boot, 3~7년) - 경력 3~7년",
     "level": "5-7년",
     "location": "경기용인시 수지구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55478983&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55478983&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "480f1098b2012792"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)씨엔씨네트웍스",
-    "title": "[경력직 다수채용] Java 백엔드 개발자 모집 (과장~차장급) - 경력6년↑",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55365274&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "3d714ba03ad379de"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)페이즘",
-    "title": "(주)페이즘 연구개발팀 Java/Spring 백엔드 개발자 채용 - 경력5년↑",
-    "level": "5-7년",
-    "location": "대구북구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55425561&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ad11a379baf5b39c"
-  },
-  {
-    "source": "saramin",
-    "company": "테트레이션랩(주)",
-    "title": "테트레이션랩(주) 반도체 공정 시스템 JAVA 백엔드 개발자 경력 채용 공고입니다 - 경력 6~15년",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55482865&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "3a8c686fa7c3a859"
-  },
-  {
-    "source": "saramin",
-    "company": "송암시스콤(주)",
-    "title": "Java 기반 백엔드/서버개발자 - 경력 5~15년",
-    "level": "5-7년",
-    "location": "전남광주나주시",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55466471&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "b842e9273384f9a3"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)인투씨엔에스",
-    "title": "B2B 백엔드 개발자(Java/Spring Boot, 4~6년) 병역특례 가능 - 경력 4~6년",
-    "level": "5-7년",
-    "location": "경기용인시 수지구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354734&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0d9a2edb1c27e002"
+    "date_found": "2026-11-10",
+    "unique_key": "91a9dd93044ee5c9"
   },
   {
     "source": "saramin",
@@ -137,10 +192,76 @@
     "title": "Backend Team Lead (Go/Java) - 경력 6~20년",
     "level": "5-7년",
     "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55502802&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55502802&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "904510d2bbbb75f4"
+    "date_found": "2026-11-10",
+    "unique_key": "e2182b8ce2dc2f97"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)씨엔씨네트웍스",
+    "title": "[경력직 다수채용] Java 백엔드 개발자 모집 (과장~차장급) - 경력6년↑",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55365274&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "3f086f8a15c10132"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)페이즘",
+    "title": "(주)페이즘 연구개발팀 Java/Spring 백엔드 개발자 채용 - 경력5년↑",
+    "level": "5-7년",
+    "location": "대구북구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55425561&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "5d2b8aeb917d4b6f"
+  },
+  {
+    "source": "saramin",
+    "company": "에버브레인컨설팅(주)",
+    "title": "[물류스타트업]Java기반/백엔드개발 (3-4년)Next.js활용 - 경력 3~10년",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55534404&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1f4753ab7385531d"
+  },
+  {
+    "source": "saramin",
+    "company": "테트레이션랩(주)",
+    "title": "테트레이션랩(주) 반도체 공정 시스템 JAVA 백엔드 개발자 경력 채용 공고입니다 - 경력 6~15년",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55482865&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "9d6e025ba8c87829"
+  },
+  {
+    "source": "saramin",
+    "company": "송암시스콤(주)",
+    "title": "Java 기반 백엔드/서버개발자 - 경력 5~15년",
+    "level": "5-7년",
+    "location": "전남광주나주시",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55466471&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "ed8f48997a2a42c1"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)인투씨엔에스",
+    "title": "B2B 백엔드 개발자(Java/Spring Boot, 4~6년) 병역특례 가능 - 경력 4~6년",
+    "level": "5-7년",
+    "location": "경기용인시 수지구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354734&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1eb16dbfbb15210a"
   },
   {
     "source": "saramin",
@@ -148,10 +269,54 @@
     "title": "[물류스타트업] Java 기반/백엔드 (경력3-4년)Next.js - 경력 3~10년",
     "level": "5-7년",
     "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55472210&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55472210&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "fb5b531daf5c7f72"
+    "date_found": "2026-11-10",
+    "unique_key": "ee0e6eb5bf75193e"
+  },
+  {
+    "source": "saramin",
+    "company": "에버브레인컨설팅(주)",
+    "title": "[물류스타트업]Java기반/백엔드개발 (경력3-4년)Next.js활용 - 경력 3~10년",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55534371&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "71d88a5609becfc1"
+  },
+  {
+    "source": "saramin",
+    "company": "로버트월터스코리아(주)",
+    "title": "[IT/엔지니어] Backend Engineer Java/Kotlin - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55536193&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "651db8d48b489ceb"
+  },
+  {
+    "source": "saramin",
+    "company": "제이케이서치 주식회사",
+    "title": "[이커머스/핀테크 중견기업]  Java 백엔드 개발자(근무지: 판교) - 경력 3~12년",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55536897&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "2f7cf9fa5b60e463"
+  },
+  {
+    "source": "saramin",
+    "company": "appknot",
+    "title": "[APPKNOT] 인프라(DevOps) + Java Backend 를 찾습니다 - 경력 7~20년",
+    "level": "5-7년",
+    "location": "서울성동구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55536644&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "3b1a070ae0fa601d"
   },
   {
     "source": "saramin",
@@ -159,10 +324,10 @@
     "title": "태경식품 IT 운영 및 기획 경력 모집 - 경력 5~12년",
     "level": "5-7년",
     "location": "경기군포시",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55429546&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55429546&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "98457458d0af929a"
+    "date_found": "2026-11-10",
+    "unique_key": "1757198f9c545047"
   },
   {
     "source": "saramin",
@@ -170,219 +335,10 @@
     "title": "서울옥션 웹서비스개발팀 풀스택 개발자 채용 - 경력5년↑",
     "level": "5-7년",
     "location": "서울종로구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55518697&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55518697&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e747b7539975b916"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)아이디정보시스템",
-    "title": "[대구]솔루션개발 개발자 채용[신입/경력사원] - 신입·경력",
-    "level": "5-7년",
-    "location": "대구수성구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55522356&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "77724d547525b59f"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)에이텐시스템",
-    "title": "[가족여가친화기업] 에이텐시스템 Java 웹개발자 경력 모집 - 신입·경력",
-    "level": "5-7년",
-    "location": "서울성동구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55210732&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "17b1c70d5e811604"
-  },
-  {
-    "source": "saramin",
-    "company": "쿠팡(주)",
-    "title": "[쿠팡페이] Senior Backend Engineer(계약직) - 경력 5~12년",
-    "level": "5-7년",
-    "location": "서울광진구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55234567&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e792565b55acc777"
-  },
-  {
-    "source": "saramin",
-    "company": "산일전기(주)",
-    "title": "2026년 시스템 개발자 채용 (DXTeam) - 경력 3~15년",
-    "level": "5-7년",
-    "location": "경기안산시 단원구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54960365&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "651ddfc792e9ef29"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)인젠트",
-    "title": "JAVA개발자(연계개발) - 경력 3~15년",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55352065&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "08426e3c1a915234"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)드림어스컴퍼니",
-    "title": "음악 서비스 백엔드 서버 개발자 채용 - 경력 3~8년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354281&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ec9f0f8180ab5bdf"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)드림어스컴퍼니",
-    "title": "콘텐츠 플랫폼 백엔드 개발(3년 이상) - 경력 3~20년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354215&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "3a865247c433af60"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)더존비즈온",
-    "title": "[AI 개발]더존비즈온 AI 에이전트 개발자 경력 채용 - 경력 1~8년",
-    "level": "5-7년",
-    "location": "서울중구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55453947&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "63f39778205b6ccd"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)오상헬스케어",
-    "title": "[오상헬스케어] 의료기기 SW 개발 경력 채용 (APP, Backend) - 경력 3~10년",
-    "level": "5-7년",
-    "location": "경기안양시 동안구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55457347&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "6f95064fcf5cfee0"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)한맥기술",
-    "title": "한맥가족 기술개발센터 인증서비스 개발자(경력직) 채용 - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55520550&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e0c0e699a77191b7"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)사이버다임",
-    "title": "DCS개발/운영지원본부 (신입/경력) 개발자 모집 - 신입·경력",
-    "level": "5-7년",
-    "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55364035&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8eec7e0b538e7e71"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)디리아",
-    "title": "(주)디리아 백엔드 개발자 채용 공고(신입/경력) - 경력 3~10년",
-    "level": "5-7년",
-    "location": "서울서초구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132451&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0270ce426f6d6a81"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)한컴이노스트림",
-    "title": "(한컴이노스트림) 솔루션 백엔드 개발자 채용 (2~10년) - 경력 2~10년",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55491782&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "d7e26eb812f4b1dc"
-  },
-  {
-    "source": "saramin",
-    "company": "주식회사 벨로크",
-    "title": "주식회사 벨로크 연구소 WEB/AI 개발자 충원(아이오브젝트팀) - 경력 3~12년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55253950&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "9d4f8cbb12c350b6"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)퀸텟시스템즈",
-    "title": "[정규직] R&D FullStack 개발자 채용 - 신입·경력",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55344287&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "fc58272e65d84ac0"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)이즈파크",
-    "title": "JAVA 개발자 채용(유지보수 · 기능개선) - 경력 3~10년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55449808&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "d497159df91ee50a"
-  },
-  {
-    "source": "saramin",
-    "company": "유니원아이앤씨(주)",
-    "title": "[웹 개발자 경력 채용] React · Java(Spring Boot) - 경력 3~5년",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55495171&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e66536fdf8742b9e"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)아티언스",
-    "title": "[AX팀] AI 서비스 개발자 - 경력 3~5년",
-    "level": "5-7년",
-    "location": "서울마포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55284832&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4c0444c60bb088ce"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)뉴데이소프트",
-    "title": "[신입,경력] 솔루션 웹 개발자 모집(정규직) - 경력 4~7년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55450142&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "22408c61ed67e6a3"
+    "date_found": "2026-11-10",
+    "unique_key": "f38412fc36db8753"
   },
   {
     "source": "saramin",
@@ -390,98 +346,32 @@
     "title": "[VB/C#/MSSQL/ERP] 웰리힐리파크 전산팀 경력직 정규직 채용 - 경력 3~10년",
     "level": "5-7년",
     "location": "강원횡성군",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516283&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516283&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "9e4cc65b8a2194da"
+    "date_found": "2026-11-10",
+    "unique_key": "a08fe7f790f763a4"
   },
   {
     "source": "saramin",
-    "company": "(주)써로마인드",
-    "title": "[써로마인드] 풀스택 · 프론트엔드 · 백엔드 개발자 채용 - 경력5년↑",
+    "company": "(주)아이디정보시스템",
+    "title": "[대구]솔루션개발 개발자 채용[신입/경력사원] - 신입·경력",
     "level": "5-7년",
-    "location": "서울관악구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55007380&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
+    "location": "대구수성구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55522356&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "b32c313403e8407b"
+    "date_found": "2026-11-10",
+    "unique_key": "4d192bd346fe8529"
   },
   {
     "source": "saramin",
-    "company": "(주)와이디엔에스",
-    "title": "[웹개발] 웹 개발자(Java, JSP) 경력자 모집(경력 3년 ~ 5년) - 경력 3~5년",
-    "level": "5-7년",
-    "location": "서울마포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55490465&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "f12faf95d63c28bc"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)와이톤",
-    "title": "백엔드 개발자 채용 - 경력 2~7년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396303&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "d9ea508a92910744"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)온택트헬스",
-    "title": "Back-end 개발자 채용 - 경력7년↑",
-    "level": "5-7년",
-    "location": "서울서대문구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55523959&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "da0e75033a328154"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)오디케이미디어",
-    "title": "Backend Developer (Data Platform) - 경력 5~12년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55277466&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=268e3eea-8e0d-4d0a-8441-14f22a63bd7f",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ec1c0538d12a51f3"
-  },
-  {
-    "source": "saramin",
-    "company": "센트리얼필(주)",
-    "title": "회원관리 CRM 서비스 프론트, 백, 앱 유지보수 및 신규기능 개발 - 경력 1~10년",
+    "company": "(주)에이텐시스템",
+    "title": "[가족여가친화기업] 에이텐시스템 Java 웹개발자 경력 모집 - 신입·경력",
     "level": "5-7년",
     "location": "서울성동구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55272396&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55210732&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ef08cff9a6683bf2"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)누리어시스템",
-    "title": "[금융SI] Java, jsp 정규직 웹개발자 채용 - 경력 3~20년",
-    "level": "5-7년",
-    "location": "경기하남시",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400170&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "b5ec2f589a7a78d3"
-  },
-  {
-    "source": "saramin",
-    "company": "지니너스(주)",
-    "title": "지니너스(주) AI팀 바이오플랫폼 개발자 경력직 수시채용 - 경력 2~5년",
-    "level": "5-7년",
-    "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55490013&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8e021eaca956240b"
+    "date_found": "2026-11-10",
+    "unique_key": "f7145794fbb3c665"
   },
   {
     "source": "saramin",
@@ -489,10 +379,10 @@
     "title": "웹 개발자 과장급 정규직 경력 부산 근무 - 경력5년↑",
     "level": "5-7년",
     "location": "부산해운대구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55523548&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55523548&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "6f7f5592fe485984"
+    "date_found": "2026-11-10",
+    "unique_key": "d1b102a0d70a8508"
   },
   {
     "source": "saramin",
@@ -500,208 +390,120 @@
     "title": "[신입/경력] Smart Factory / MES 솔루션 개발자 및 PM - 신입·경력",
     "level": "5-7년",
     "location": "경기용인시 수지구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55525772&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55525772&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ff8d991ea09605cb"
+    "date_found": "2026-11-10",
+    "unique_key": "90591daf465fa03f"
   },
   {
     "source": "saramin",
-    "company": "(주)티모넷코리아",
-    "title": "공공기관 정보시스템 유지관리 개발자(고객사 상주) 모집 - 경력5년↑",
+    "company": "쿠팡(주)",
+    "title": "[쿠팡페이] Senior Backend Engineer(계약직) - 경력 5~12년",
     "level": "5-7년",
-    "location": "서울종로구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55518263&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "location": "서울광진구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55234567&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4528f189afae1946"
+    "date_found": "2026-11-10",
+    "unique_key": "fda86881854581b1"
   },
   {
     "source": "saramin",
-    "company": "(주)포스타입",
-    "title": "[포스타입] 백엔드 엔지니어 신입/경력 채용 - 신입·경력",
+    "company": "산일전기(주)",
+    "title": "2026년 시스템 개발자 채용 (DXTeam) - 경력 3~15년",
+    "level": "5-7년",
+    "location": "경기안산시 단원구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54960365&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "7d330d135bd5de7f"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)인젠트",
+    "title": "JAVA개발자(연계개발) - 경력 3~15년",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55352065&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "45ab0b64749a0626"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)드림어스컴퍼니",
+    "title": "음악 서비스 백엔드 서버 개발자 채용 - 경력 3~8년",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55254573&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354281&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7b2992178d613327"
+    "date_found": "2026-11-10",
+    "unique_key": "82fae8eede488419"
   },
   {
     "source": "saramin",
-    "company": "(주)한국디지털거래소",
-    "title": "한국디지털거래소에서 백엔드 개발자를 모십니다. - 경력 3~12년",
+    "company": "(주)드림어스컴퍼니",
+    "title": "콘텐츠 플랫폼 백엔드 개발(3년 이상) - 경력 3~20년",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55299666&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354215&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "197315fdb06c1b1c"
+    "date_found": "2026-11-10",
+    "unique_key": "c439de71f1964132"
   },
   {
     "source": "saramin",
-    "company": "한국프리미엄카드마케팅(주)",
-    "title": "플랫폼 개발자 경력 채용(사전과제 제출 필수) - 경력5년↑",
+    "company": "(주)더존비즈온",
+    "title": "[AI 개발]더존비즈온 AI 에이전트 개발자 경력 채용 - 경력 1~8년",
     "level": "5-7년",
     "location": "서울중구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516518&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55453947&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "f4df874a325051c8"
+    "date_found": "2026-11-10",
+    "unique_key": "320c57f1188d8675"
   },
   {
     "source": "saramin",
-    "company": "(주)마루일번지",
-    "title": "바이브코딩 개발자 모집 (웹·앱·백엔드/점심·퇴직금) - 경력 1~5년",
-    "level": "5-7년",
-    "location": "대구북구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55389854&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4161c8a0045c6d2d"
-  },
-  {
-    "source": "saramin",
-    "company": "제로웍스(주)",
-    "title": "[HDC 현대산업개발 자회사] 제로웍스 백엔드 엔지니어 경력 채용 - 경력 4~15년",
-    "level": "5-7년",
-    "location": "서울용산구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55464637&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e5aefaa69a44f70a"
-  },
-  {
-    "source": "saramin",
-    "company": "브레인즈컴퍼니(주)",
-    "title": "Application성능관리솔루션개발자(경력) - 경력 3~8년",
-    "level": "5-7년",
-    "location": "서울성동구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55330605&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "58f5defc83c6facc"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)카카오페이증권",
-    "title": "대용량 데이터 플랫폼 백엔드 개발자 - 경력5년↑",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55434411&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7c774b9483278d24"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)솔로몬텍",
-    "title": "H그룹사 보안솔루션 운영 경력직 채용(가산) - 경력 6~9년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55501562&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "c491da4fac277e63"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)삼아인터내셔날",
-    "title": "[삼아인터내셔날] IT개발팀 백엔드 개발자 채용 - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55404213&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0b36e7365998e2cd"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)키스템프그룹",
-    "title": "[강남/정규직/복리후생上] 유명 기업 웹 개발자 채용 - 경력 4~9년",
+    "company": "(주)크레버스",
+    "title": "[크레버스] AX Planning Team 백엔드엔지니어 정규직 - 경력 3~10년",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55497389&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55531671&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "27fb2f9db5c17739"
+    "date_found": "2026-11-10",
+    "unique_key": "1d45bf7e34afb2de"
   },
   {
     "source": "saramin",
-    "company": "(주)미니게이트",
-    "title": "[미니게이트] 통신사업부문 프론트엔드 풀스텍 개발자 모집 - 경력 7~15년",
+    "company": "(주)오상헬스케어",
+    "title": "[오상헬스케어] 의료기기 SW 개발 경력 채용 (APP, Backend) - 경력 3~10년",
     "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55300342&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "location": "경기안양시 동안구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55457347&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8acb5dad6442f06d"
+    "date_found": "2026-11-10",
+    "unique_key": "d5acf2ac21275b4a"
   },
   {
     "source": "saramin",
-    "company": "기웅정보통신(주)",
-    "title": "[세무주치의] 시스템 개발 및 운영 담당자 - 경력 2~7년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55366541&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "6d92e4c53ed9db88"
-  },
-  {
-    "source": "saramin",
-    "company": "엔에이치엔(주)",
-    "title": "[NHN waplat] 와플랫 서비스 백엔드 개발 - 경력 3~10년",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55416633&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "2b49c13c79629050"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)인피닉",
-    "title": "[인피닉] 연구소 풀스텍 개발자 채용 - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55439420&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8ba6d47bc9999ecc"
-  },
-  {
-    "source": "saramin",
-    "company": "서울평가정보(주)",
-    "title": "[경력] 기업정보DB 담당 채용 - 경력7년↑",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55405930&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "2e6af3d0b7f23211"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)솔트룩스",
-    "title": "[솔트룩스] 클라우드 백엔드 개발자 채용(경력 5년 이상) - 경력5년↑",
+    "company": "(주)한맥기술",
+    "title": "한맥가족 기술개발센터 인증서비스 개발자(경력직) 채용 - 경력5년↑",
     "level": "5-7년",
     "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55451936&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55520550&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ae27f79081ae73d2"
+    "date_found": "2026-11-10",
+    "unique_key": "97d3fddf513bbf9b"
   },
   {
     "source": "saramin",
-    "company": "(주)피씨엔",
-    "title": "(주)피씨엔 공공기관 유지운영(SM)개발자 채용 - 경력 3~6년",
+    "company": "(주)사이버다임",
+    "title": "DCS개발/운영지원본부 (신입/경력) 개발자 모집 - 신입·경력",
     "level": "5-7년",
-    "location": "서울중구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55494827&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "location": "서울송파구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55364035&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "108246564a37b138"
+    "date_found": "2026-11-10",
+    "unique_key": "f6fa33cd2e241adc"
   },
   {
     "source": "saramin",
@@ -709,32 +511,21 @@
     "title": "[시원스쿨] 백엔드(Back-End) 개발자 채용 - 경력 5~10년",
     "level": "5-7년",
     "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55525624&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55525624&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "dd28c9cbedceb408"
+    "date_found": "2026-11-10",
+    "unique_key": "e05868af4c5a3910"
   },
   {
     "source": "saramin",
-    "company": "켄코아에어로스페이스(주)",
-    "title": "ERP 개발 및 유지, 전산 관리원 모집공고(프로그램 개발자) - 신입·경력",
+    "company": "(주)디리아",
+    "title": "(주)디리아 백엔드 개발자 채용 공고(신입/경력) - 경력 3~10년",
     "level": "5-7년",
-    "location": "경남사천시",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55029639&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "location": "서울서초구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132451&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e151c88c250c7525"
-  },
-  {
-    "source": "saramin",
-    "company": "웹투게더(주)",
-    "title": "[Java/Spring/Vue]애플리케이션 아키텍트(AA) 경력 채용(정규직) - 경력 5~15년",
-    "level": "5-7년",
-    "location": "서울구로구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55341835&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "645258cab93b3997"
+    "date_found": "2026-11-10",
+    "unique_key": "94cb4b03cbe097c1"
   },
   {
     "source": "saramin",
@@ -742,10 +533,21 @@
     "title": "웹 어플리케이션 개발자 - 경력 1~10년",
     "level": "5-7년",
     "location": "경기전체",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55485311&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55485311&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "e8b497ec2792bec5"
+    "date_found": "2026-11-10",
+    "unique_key": "1a8d9631303d88b4"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)한컴이노스트림",
+    "title": "(한컴이노스트림) 솔루션 백엔드 개발자 채용 (2~10년) - 경력 2~10년",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55491782&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=68f9e441-5dd4-4223-a787-a416448c9f57",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "29ea0f8be418cf36"
   },
   {
     "source": "saramin",
@@ -753,65 +555,43 @@
     "title": "[다이퀘스트] AI 서비스 백엔드 개발자 - 경력5년↑",
     "level": "5-7년",
     "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55524496&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55524496&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "598bf7d507d4d801"
+    "date_found": "2026-11-10",
+    "unique_key": "3665d50b9b16474e"
   },
   {
     "source": "saramin",
-    "company": "씨앤토트(주)",
-    "title": "소프트웨어 개발자 / AI 개발 / 솔루션 개발자 모집 (경력) - 경력 7~10년",
+    "company": "주식회사 벨로크",
+    "title": "주식회사 벨로크 연구소 WEB/AI 개발자 충원(아이오브젝트팀) - 경력 3~12년",
     "level": "5-7년",
-    "location": "서울서초구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55261628&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55253950&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "a27ea7684d4b3e7b"
+    "date_found": "2026-11-10",
+    "unique_key": "89a42d94c8ec39d0"
   },
   {
     "source": "saramin",
     "company": "(주)퀸텟시스템즈",
-    "title": "[정규직] Java 경력 개발자 모집 - 경력 5~20년",
+    "title": "[정규직] R&D FullStack 개발자 채용 - 신입·경력",
     "level": "5-7년",
     "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55301206&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55344287&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "98c38397c57037ea"
+    "date_found": "2026-11-10",
+    "unique_key": "e559aad4cc7d61dd"
   },
   {
     "source": "saramin",
-    "company": "한국전자인증(주)",
-    "title": "한국전자인증(주) AI Agent 개발자 채용 - 경력5년↑",
+    "company": "유니원아이앤씨(주)",
+    "title": "[웹 개발자 경력 채용] React · Java(Spring Boot) - 경력 3~5년",
     "level": "5-7년",
-    "location": "서울서초구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55388190&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55495171&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "27afab26d0a2206d"
-  },
-  {
-    "source": "saramin",
-    "company": "한국전자인증(주)",
-    "title": "한국전자인증(주) SSL기술서비스팀 개발자 경력 채용 (5년 이상) - 경력 5~7년",
-    "level": "5-7년",
-    "location": "서울서초구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55470335&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "3509cf97aca7e03b"
-  },
-  {
-    "source": "saramin",
-    "company": "패스트레인(여신티켓)",
-    "title": "백엔드 개발자 - 경력 7~13년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55496314&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "9455cc920c5d4f97"
+    "date_found": "2026-11-10",
+    "unique_key": "14ebe16c13a3b3f3"
   },
   {
     "source": "saramin",
@@ -819,263 +599,32 @@
     "title": "[미소정보기술] JAVA, Python 및 인공지능(AI) 플랫폼 개발자 - 경력 5~20년",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55500935&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55500935&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "45bf948379576316"
+    "date_found": "2026-11-10",
+    "unique_key": "46558d404fdccb28"
   },
   {
     "source": "saramin",
-    "company": "(주)사람인에이치에스",
-    "title": "[대기업계열사/IT중견기업] 공공SI프로젝트 프레임워크 설계 - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울동작구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041973&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "233a543bea2c3b24"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)포스텍",
-    "title": "[경력] AI 응용 S/W개발자 및 기술영업직 모집 - 경력 3~15년",
-    "level": "5-7년",
-    "location": "경남창원시 성산구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55273226&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "d32177acf0ce58f6"
-  },
-  {
-    "source": "saramin",
-    "company": "디에스글로벌 주식회사",
-    "title": "디에스글로벌(주) 커머스 백엔드 개발자 경력직 채용중 - 경력 5~9년",
-    "level": "5-7년",
-    "location": "서울성동구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55436632&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8d1a86588f6cfc69"
-  },
-  {
-    "source": "saramin",
-    "company": "이도에코원(주)",
-    "title": "이도에스테이트 IT사업팀 백엔드 / 웹 개발 채용 (단기계약직) - 경력7년↑",
-    "level": "5-7년",
-    "location": "서울중구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55478627&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "9bec250e68a05c13"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)이에스지에이치",
-    "title": "[이썸테크] 금융 IT 솔루션 개발 및 기술지원 경력직 채용 - 경력 5~15년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55480716&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0ecd32a2b6f4c8ce"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)파인원커뮤니케이션즈",
-    "title": "[파인원커뮤니케이션즈]Back-end 경력 개발자 채용 - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55493721&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=98a70982-c432-4712-b22a-5aed9c8484cf",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "59842a6c3f3fbd4c"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)엑스페릭스",
-    "title": "백엔드 개발자 채용 - 경력 5~15년",
-    "level": "5-7년",
-    "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55363633&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "da0f202f0835cdd4"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)인터엑스",
-    "title": "[울산] SDF 백엔드 개발자 - 신입·경력",
-    "level": "5-7년",
-    "location": "울산중구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55430690&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "6a6210c60fb2a2a6"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)코보시스",
-    "title": "서버 개발자 - 경력 3~15년",
-    "level": "5-7년",
-    "location": "서울송파구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55467347&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4ded6bf1d8125748"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)두드림정보",
-    "title": "[공공부문 응용시스템] Java·JSP 정규직 개발자 (경력) - 경력 1~10년",
-    "level": "5-7년",
-    "location": "대전유성구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55045006&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "934dea7390ca3c20"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)핀다",
-    "title": "백엔드 개발자 - 경력 4~8년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55262223&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7f86473e29ec0141"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)엔터인",
-    "title": "Web ERP 개발자 (Java/Spring) 신입·주니어 모집 - 경력 2~5년",
-    "level": "5-7년",
-    "location": "대구수성구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55342908&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "c3cb8efbdc29c7b3"
-  },
-  {
-    "source": "saramin",
-    "company": "주식회사 도브러너",
-    "title": "[도브러너] Data Engineer - 경력 3~5년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55352659&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "3d05c4efebf322c2"
-  },
-  {
-    "source": "saramin",
-    "company": "킹스정보통신",
-    "title": "스프링 자바 웹개발 경력자를 모십니다. - 경력 2~5년",
-    "level": "5-7년",
-    "location": "경기하남시",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55362696&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "2011b096cabf3b78"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)엔투엠",
-    "title": "경력 AI 에이전트 & 웹 풀스택 개발자 채용 - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55415001&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "79f52a258ce25288"
-  },
-  {
-    "source": "saramin",
-    "company": "우리에프아이에스(주)",
-    "title": "[우리FIS] 26년 11월 개발 부문 경력 채용 - 경력 4~14년",
+    "company": "(주)아티언스",
+    "title": "[AX팀] AI 서비스 개발자 - 경력 3~5년",
     "level": "5-7년",
     "location": "서울마포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55171197&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55284832&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "b47662dccf46681a"
+    "date_found": "2026-11-10",
+    "unique_key": "21f6451f6b5ef657"
   },
   {
     "source": "saramin",
-    "company": "한솔코에버(주)",
-    "title": "[한솔코에버] (Java/Vue3) MES/ERP/WMS 개발 - 경력5년↑",
+    "company": "(주)뉴데이소프트",
+    "title": "[신입,경력] 솔루션 웹 개발자 모집(정규직) - 경력 4~7년",
     "level": "5-7년",
     "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55233810&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55450142&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "bad3d7ce3618e2b7"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)타임게이트",
-    "title": "VDI 운영 관리 솔루션 기술지원 엔지니어 채용 - 경력 3~7년",
-    "level": "5-7년",
-    "location": "서울성동구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55284548&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8cc731862ffb0753"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)아파트너스",
-    "title": "[아파트너스] Back-end Engineer 모집 - 경력 3~6년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442348&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "eb41d370a3b47589"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)헥코리아",
-    "title": "수자원 분야 시스템개발실 웹개발자 - 경력직 공개채용 - 경력 5~10년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55453312&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "30b418d4156ab690"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)카카오브이엑스",
-    "title": "카카오VX AI부스트 GMS 웹 시스템 개발자 채용 - 경력7년↑",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55466810&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "44041108ddd41f36"
-  },
-  {
-    "source": "saramin",
-    "company": "디딤(주)",
-    "title": "AI Agent / LLM 기반 개발자 경력 채용 - 경력 5~15년",
-    "level": "5-7년",
-    "location": "서울구로구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55505065&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "9a5b58c33e8ce734"
-  },
-  {
-    "source": "saramin",
-    "company": "디딤(주)",
-    "title": "빅데이터 플랫폼 개발 경력 채용 - 경력 5~15년",
-    "level": "5-7년",
-    "location": "서울구로구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55505082&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "9dfda4c4ab1727de"
+    "date_found": "2026-11-10",
+    "unique_key": "4dd73a4566769c5a"
   },
   {
     "source": "saramin",
@@ -1083,197 +632,43 @@
     "title": "(주)퍼브 LMS 프로젝트 마이그레이션 프리랜서 채용 - 경력5년↑",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55521114&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55521114&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "a4045ed92983d42c"
+    "date_found": "2026-11-10",
+    "unique_key": "0247c15b2ea32bf7"
   },
   {
     "source": "saramin",
-    "company": "위프로커넥티드서비시즈인크",
-    "title": "[위프로커넥티드서비시즈인크] Talent Pool - Software Engineer - 경력 3~15년",
+    "company": "(주)써로마인드",
+    "title": "[써로마인드] 풀스택 · 프론트엔드 · 백엔드 개발자 채용 - 경력5년↑",
     "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55032424&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "location": "서울관악구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55007380&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "8c4baf5cba69507e"
+    "date_found": "2026-11-10",
+    "unique_key": "b47e81e315db1118"
   },
   {
     "source": "saramin",
-    "company": "(주)위펀",
-    "title": "[CEO Staff] 풀스택 개발자 (JavaScript/TypeScript) - 경력5년↑",
+    "company": "(주)와이디엔에스",
+    "title": "[웹개발] 웹 개발자(Java, JSP) 경력자 모집(경력 3년 ~ 5년) - 경력 3~5년",
     "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372385&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "location": "서울마포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55490465&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0f8f8795c6797d49"
+    "date_found": "2026-11-10",
+    "unique_key": "8fc2f260dbd75e6b"
   },
   {
     "source": "saramin",
-    "company": "(주)위펀",
-    "title": "AI Native QA 엔지니어 (테스트자동화/품질관리) - 경력5년↑",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372370&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "874b7d4d8216f2f8"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)위펀",
-    "title": "백엔드 개발자 (경력 5년 이상) - 경력5년↑",
+    "company": "(주)와이톤",
+    "title": "백엔드 개발자 채용 - 경력 2~7년",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372288&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396303&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "bae7fa5210ec9be1"
-  },
-  {
-    "source": "saramin",
-    "company": "링크투어스(주)",
-    "title": "JAVA(풀스택) 중/고급 개발자 채용 (서울 가산 근무) - 경력 4~7년",
-    "level": "5-7년",
-    "location": "서울금천구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55491370&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "ea6d304d1a845582"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)티씨씨아이엔에스",
-    "title": "[TCC INS] 웹 풀스택 개발자 모집 - 경력 7~10년",
-    "level": "5-7년",
-    "location": "서울중구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55040667&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "f7844d712f4bdf21"
-  },
-  {
-    "source": "saramin",
-    "company": "서울거래(주)",
-    "title": "백엔드 시니어 개발자 채용 - 경력 4~20년",
-    "level": "5-7년",
-    "location": "서울영등포구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55297144&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "2069be1d8f17d023"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)카카오헬스케어",
-    "title": "[경력] Product Engineer (Backend & Data) - 경력5년↑",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55411724&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7742f5d0e5e97a80"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)엔플럭스",
-    "title": "Java 풀스택 개발자 (경력 5년 이상) 채용공고 - 경력5년↑",
-    "level": "5-7년",
-    "location": "경기성남시 분당구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402707&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "0c68c06d04204e9e"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)콜로세움코퍼레이션",
-    "title": "Backend Engineer(5년 이상) - 경력 5~12년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55507134&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7600e0c2ab7b61fa"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)스카우트",
-    "title": "AI Agent / LLM 기반 개발 (분석/설계/개발) - 경력 3~10년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55520005&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "f356ee7e603089a6"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)퍼니랜드",
-    "title": "(주)퍼니랜드 백엔드 개발자 모집해요 - 경력 4~7년",
-    "level": "5-7년",
-    "location": "서울성동구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55028023&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7d0810dfd8ddf589"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)넵튠",
-    "title": "[넵튠] 플랫폼사업본부 플랫폼개발실 InDSP TF 서버개발자 채용 - 경력 4~12년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55424219&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "05e7aa82a7a50ca2"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)에이치알그룹",
-    "title": "[디지털광고대행사] 백엔드개발자 - 경력 2~6년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55458292&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "bbdfb331a6984b14"
-  },
-  {
-    "source": "saramin",
-    "company": "나무에이엑스(주)",
-    "title": "클라우드/가상화 관리 시스템 백엔드 개발자 - 경력 6~20년",
-    "level": "5-7년",
-    "location": "서울강서구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55501016&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "1add44fb86516e96"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)시스콘로보틱스",
-    "title": "자율주행로봇 제어소프트웨어 개발 채용 - 경력 3~20년",
-    "level": "5-7년",
-    "location": "경기성남시 수정구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55423885&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "5e5388e4a595dab5"
-  },
-  {
-    "source": "saramin",
-    "company": "(주)스패이드",
-    "title": "GeoAI Platform Backend Engineer - 경력 4~10년",
-    "level": "5-7년",
-    "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55361937&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "f9ef21caf0c6390c"
+    "date_found": "2026-11-10",
+    "unique_key": "89d3588fb7a8e788"
   },
   {
     "source": "saramin",
@@ -1281,54 +676,758 @@
     "title": "물류자동화 시스템 펌웨어 엔지니어 - 경력 3~10년",
     "level": "5-7년",
     "location": "인천연수구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516683&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516683&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "5f8372db45d51761"
+    "date_found": "2026-11-10",
+    "unique_key": "e44528b3ac32feae"
   },
   {
     "source": "saramin",
-    "company": "(주)오프리메드",
-    "title": "백엔드 개발자 (사원~과장) - 경력 5~10년",
+    "company": "(주)온택트헬스",
+    "title": "Back-end 개발자 채용 - 경력7년↑",
     "level": "5-7년",
-    "location": "경기수원시 영통구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55437840&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "location": "서울서대문구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55523959&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "a07fcde8dd334366"
+    "date_found": "2026-11-10",
+    "unique_key": "c3e624dad6d7d294"
   },
   {
     "source": "saramin",
-    "company": "(주)아인잡",
-    "title": "백엔드 개발자 (경력) - 경력 3~10년",
+    "company": "(주)오디케이미디어",
+    "title": "Backend Developer (Data Platform) - 경력 5~12년",
     "level": "5-7년",
     "location": "서울강남구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55376208&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55277466&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4de06cff03ca0fb7"
+    "date_found": "2026-11-10",
+    "unique_key": "4e1247f821b17f34"
   },
   {
     "source": "saramin",
-    "company": "(주)폴라리스쓰리디",
-    "title": "자율주행로봇 관제시스템 백엔드(서울) - 경력 3~10년",
+    "company": "(주)에스디파마",
+    "title": "의약품 유통 플랫폼·AI 서비스 개발자 채용 - 경력 2~5년",
+    "level": "5-7년",
+    "location": "경기남양주시",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55507577&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "751b47de1a2bfd06"
+  },
+  {
+    "source": "saramin",
+    "company": "센트리얼필(주)",
+    "title": "회원관리 CRM 서비스 프론트, 백, 앱 유지보수 및 신규기능 개발 - 경력 1~10년",
+    "level": "5-7년",
+    "location": "서울성동구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55272396&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1a9319f41d654229"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)누리어시스템",
+    "title": "[금융SI] Java, jsp 정규직 웹개발자 채용 - 경력 3~20년",
+    "level": "5-7년",
+    "location": "경기하남시",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400170&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "7478d9a9626f78f2"
+  },
+  {
+    "source": "saramin",
+    "company": "지니너스(주)",
+    "title": "지니너스(주) AI팀 바이오플랫폼 개발자 경력직 수시채용 - 경력 2~5년",
+    "level": "5-7년",
+    "location": "서울송파구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55490013&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "bd3d112f85a795fc"
+  },
+  {
+    "source": "saramin",
+    "company": "지식시스템㈜ KSTEC Inc.",
+    "title": "[KSTEC] Java 프로그래머 경력사원 채용 - 경력7년↑",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55518545&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "4db186eafb770adc"
+  },
+  {
+    "source": "saramin",
+    "company": "보미오라한의원",
+    "title": "쇼핑몰/헬스케어 서비스 개발자 - 경력 3~10년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55506536&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "d88acab6ad0e8a7c"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)티모넷코리아",
+    "title": "공공기관 정보시스템 유지관리 개발자(고객사 상주) 모집 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울종로구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55518263&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "24a2bb8ea3fc8732"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)포스타입",
+    "title": "[포스타입] 백엔드 엔지니어 신입/경력 채용 - 신입·경력",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55254573&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "6884ff5c3212903f"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)굿인벤트",
+    "title": "[정규직/송도/바이오 대기업] Java/Spring 운영·개발자 모집 - 경력5년↑",
+    "level": "5-7년",
+    "location": "인천연수구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55469552&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "92a00444eedb55b0"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)한국디지털거래소",
+    "title": "한국디지털거래소에서 백엔드 개발자를 모십니다. - 경력 3~12년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55299666&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "39bb8609a0f3e783"
+  },
+  {
+    "source": "saramin",
+    "company": "한국프리미엄카드마케팅(주)",
+    "title": "플랫폼 개발자 경력 채용(사전과제 제출 필수) - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516518&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "177a5150be0503c0"
+  },
+  {
+    "source": "saramin",
+    "company": "위버로프트(주)",
+    "title": "[이천 하이닉스 파견 - 숙소제공] JAVA 개발자 채용 - 경력7년↑",
+    "level": "5-7년",
+    "location": "경기이천시",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55520137&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "5df6d0e84217569e"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)스포카",
+    "title": "백엔드 프로그래머(3~10년) - 경력 3~10년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55362018&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "119e3314f03e1fed"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)마루일번지",
+    "title": "바이브코딩 개발자 모집 (웹·앱·백엔드/점심·퇴직금) - 경력 1~5년",
+    "level": "5-7년",
+    "location": "대구북구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55389854&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "3d7b806483d17a5b"
+  },
+  {
+    "source": "saramin",
+    "company": "마크로버(주)",
+    "title": "[제조DX·AX 플랫폼] Java 웹 개발자 경력직 채용 - 경력 2~5년",
+    "level": "5-7년",
+    "location": "울산남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55460071&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "bd6257838f8e265e"
+  },
+  {
+    "source": "saramin",
+    "company": "제로웍스(주)",
+    "title": "[HDC 현대산업개발 자회사] 제로웍스 백엔드 엔지니어 경력 채용 - 경력 4~15년",
+    "level": "5-7년",
+    "location": "서울용산구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55464637&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "25db7fcbfe5c3022"
+  },
+  {
+    "source": "saramin",
+    "company": "주식회사 스마트코어",
+    "title": "백엔드 개발자 공고[경력 3년이상 5년이하] - 경력 3~5년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55529890&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "a460dd74c2a4be7d"
+  },
+  {
+    "source": "saramin",
+    "company": "주식회사 그라운드원",
+    "title": "백엔드 엔지니어 주니어(2-5년 차) - 경력 2~5년",
+    "level": "5-7년",
+    "location": "서울서초구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530646&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "edda2e291f3cf7f2"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)아이엠그루",
+    "title": "개발자 채용(데이터 엔지니어링, 애플리케이션 개발 직무) - 경력 2~9년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55531673&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "9b2fbf130ba287e6"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)파운트",
+    "title": "[핀테크/AI/정규] Fullstack 엔지니어 (경력) - 경력 3~15년",
+    "level": "5-7년",
+    "location": "서울중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55533565&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "7a9a166f136ab200"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)다우기술",
+    "title": "소프트웨어 아키텍트 - 경력 5~20년",
+    "level": "5-7년",
+    "location": "서울마포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55497100&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "c8ff3ef7bcd6c3e5"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)카카오페이증권",
+    "title": "대용량 데이터 플랫폼 백엔드 개발자 - 경력5년↑",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55434411&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "87d32e16f18888dd"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)카카오페이증권",
+    "title": "API 게이트웨이 백엔드 개발자 - 경력5년↑",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55434305&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "4e61902273c27a3c"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)솔로몬텍",
+    "title": "H그룹사 보안솔루션 운영 경력직 채용(가산) - 경력 6~9년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55501562&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "6406671709f7b842"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)삼아인터내셔날",
+    "title": "[삼아인터내셔날] IT개발팀 백엔드 개발자 채용 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55404213&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "500d8bbaa1d02670"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)키스템프그룹",
+    "title": "[강남/정규직/복리후생上] 유명 기업 웹 개발자 채용 - 경력 4~9년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55497389&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=d27b1be1-3c8d-4ff9-a9c2-e909112fe0db",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "28baac01ce128168"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)미니게이트",
+    "title": "[미니게이트] 통신사업부문 프론트엔드 풀스텍 개발자 모집 - 경력 7~15년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55300342&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1986206e6041ea0f"
+  },
+  {
+    "source": "saramin",
+    "company": "기웅정보통신(주)",
+    "title": "[세무주치의] 시스템 개발 및 운영 담당자 - 경력 2~7년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55366541&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "6bef508dae9e2d4d"
+  },
+  {
+    "source": "saramin",
+    "company": "엔에이치엔(주)",
+    "title": "[NHN waplat] 와플랫 서비스 백엔드 개발 - 경력 3~10년",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55416633&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "878e2cb0341a4efa"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)인피닉",
+    "title": "[인피닉] 연구소 풀스텍 개발자 채용 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55439420&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1e70433c4dd3a09e"
+  },
+  {
+    "source": "saramin",
+    "company": "서울평가정보(주)",
+    "title": "[경력] 기업정보DB 담당 채용 - 경력7년↑",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55405930&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "9462bccb838cd0a5"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)솔트룩스",
+    "title": "[솔트룩스] 클라우드 백엔드 개발자 채용(경력 5년 이상) - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울송파구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55451936&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "dd70f9cd6966b5ce"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)피씨엔",
+    "title": "(주)피씨엔 공공기관 유지운영(SM)개발자 채용 - 경력 3~6년",
+    "level": "5-7년",
+    "location": "서울중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55494827&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "27ade3f2086b2fae"
+  },
+  {
+    "source": "saramin",
+    "company": "켄코아에어로스페이스(주)",
+    "title": "ERP 개발 및 유지, 전산 관리원 모집공고(프로그램 개발자) - 신입·경력",
+    "level": "5-7년",
+    "location": "경남사천시",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55029639&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "18ea915cb23301f4"
+  },
+  {
+    "source": "saramin",
+    "company": "웹투게더(주)",
+    "title": "[Java/Spring/Vue]애플리케이션 아키텍트(AA) 경력 채용(정규직) - 경력 5~15년",
     "level": "5-7년",
     "location": "서울구로구",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55502894&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55341835&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "6d96cea452fb35a3"
+    "date_found": "2026-11-10",
+    "unique_key": "70ccaa3fb473b702"
   },
   {
     "source": "saramin",
-    "company": "(주)인포젠",
-    "title": "[여수] LG화학 C# 개발자 정규직 모집 - 신입·경력",
+    "company": "㈜모빌씨앤씨",
+    "title": "모바일 어플리케이션 서버 개발자 채용(경력직) - 경력 3~10년",
     "level": "5-7년",
-    "location": "전남광주여수시",
-    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55098217&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=03280731-123e-47f2-85b8-baef90593789",
+    "location": "서울종로구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55530896&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
     "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "7abd694764683374"
+    "date_found": "2026-11-10",
+    "unique_key": "44e227da4c37e026"
+  },
+  {
+    "source": "saramin",
+    "company": "씨앤토트(주)",
+    "title": "소프트웨어 개발자 / AI 개발 / 솔루션 개발자 모집 (경력) - 경력 7~10년",
+    "level": "5-7년",
+    "location": "서울서초구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55261628&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "b80e19c6c1fa297a"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)퀸텟시스템즈",
+    "title": "[정규직] Java 경력 개발자 모집 - 경력 5~20년",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55301206&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "ac77c038c8302cd0"
+  },
+  {
+    "source": "saramin",
+    "company": "한국전자인증(주)",
+    "title": "한국전자인증(주) SSL기술서비스팀 개발자 경력 채용 (5년 이상) - 경력 5~7년",
+    "level": "5-7년",
+    "location": "서울서초구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55470335&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "ba0e962ac885e0ac"
+  },
+  {
+    "source": "saramin",
+    "company": "패스트레인(여신티켓)",
+    "title": "백엔드 개발자 - 경력 7~13년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55496314&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "3905498829ac9f44"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)사람인에이치에스",
+    "title": "[대기업계열사/IT중견기업] 공공SI프로젝트 프레임워크 설계 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울동작구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041973&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "e5ff6bbccbc180b2"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)포스텍",
+    "title": "[경력] AI 응용 S/W개발자 및 기술영업직 모집 - 경력 3~15년",
+    "level": "5-7년",
+    "location": "경남창원시 성산구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55273226&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "ca6031c078786142"
+  },
+  {
+    "source": "saramin",
+    "company": "디에스글로벌 주식회사",
+    "title": "디에스글로벌(주) 커머스 백엔드 개발자 경력직 채용중 - 경력 5~9년",
+    "level": "5-7년",
+    "location": "서울성동구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55436632&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "560123ef79ee16c8"
+  },
+  {
+    "source": "saramin",
+    "company": "이도에코원(주)",
+    "title": "이도에스테이트 IT사업팀 백엔드 / 웹 개발 채용 (단기계약직) - 경력7년↑",
+    "level": "5-7년",
+    "location": "서울중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55478627&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "0a46235986f40208"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)이에스지에이치",
+    "title": "[이썸테크] 금융 IT 솔루션 개발 및 기술지원 경력직 채용 - 경력 5~15년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55480716&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "f59b2e03902a7416"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)파인원커뮤니케이션즈",
+    "title": "[파인원커뮤니케이션즈]Back-end 경력 개발자 채용 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55493721&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "c7c13f7693902514"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)엑스페릭스",
+    "title": "백엔드 개발자 채용 - 경력 5~15년",
+    "level": "5-7년",
+    "location": "서울송파구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55363633&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "5f445910edfd29b0"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)인터엑스",
+    "title": "[울산] SDF 백엔드 개발자 - 신입·경력",
+    "level": "5-7년",
+    "location": "울산중구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55430690&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "0a896f9a8a2abe55"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)코보시스",
+    "title": "서버 개발자 - 경력 3~15년",
+    "level": "5-7년",
+    "location": "서울송파구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55467347&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "2636540b845cefec"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)두드림정보",
+    "title": "[공공부문 응용시스템] Java·JSP 정규직 개발자 (경력) - 경력 1~10년",
+    "level": "5-7년",
+    "location": "대전유성구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55045006&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1a1e063d0179d78d"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)핀다",
+    "title": "[핀다] 백엔드 개발자 - 경력 4~8년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55262223&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "aa2a422d8941a07e"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)엔터인",
+    "title": "Web ERP 개발자 (Java/Spring) 신입·주니어 모집 - 경력 2~5년",
+    "level": "5-7년",
+    "location": "대구수성구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55342908&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "69b34f6d38eaab20"
+  },
+  {
+    "source": "saramin",
+    "company": "주식회사 도브러너",
+    "title": "[도브러너] Data Engineer - 경력 3~5년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55352659&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "e244def6dde3b491"
+  },
+  {
+    "source": "saramin",
+    "company": "킹스정보통신",
+    "title": "스프링 자바 웹개발 경력자를 모십니다. - 경력 2~5년",
+    "level": "5-7년",
+    "location": "경기하남시",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55362696&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "1ef7a433eeba908a"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)엔투엠",
+    "title": "경력 AI 에이전트 & 웹 풀스택 개발자 채용 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울영등포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55415001&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "464a7b1ba0065069"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)핀다",
+    "title": "핀다뱅크[대원저축] 제품 엔지니어 - 경력 5~20년",
+    "level": "5-7년",
+    "location": "서울강남구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55531764&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "b2d8816db1818e49"
+  },
+  {
+    "source": "saramin",
+    "company": "한솔코에버(주)",
+    "title": "[한솔코에버] (Java/Vue3) MES/ERP/WMS 개발 - 경력5년↑",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55233810&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "24ab865b9fe66e33"
+  },
+  {
+    "source": "saramin",
+    "company": "우리에프아이에스(주)",
+    "title": "[우리FIS] 26년 11월 개발 부문 경력 채용 - 경력 4~14년",
+    "level": "5-7년",
+    "location": "서울마포구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55171197&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "d716f2edcf827982"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)타임게이트",
+    "title": "VDI 운영 관리 솔루션 기술지원 엔지니어 채용 - 경력 3~7년",
+    "level": "5-7년",
+    "location": "서울성동구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55284548&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "fd0e6072a4dbf567"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)아파트너스",
+    "title": "[아파트너스] Back-end Engineer 모집 - 경력 3~6년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442348&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "806e0df9ca664288"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)아파트너스",
+    "title": "[아파트너스] AI Engineer 모집 - 경력 3~6년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442035&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "ca18be3edeb233a0"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)헥코리아",
+    "title": "수자원 분야 시스템개발실 웹개발자 - 경력직 공개채용 - 경력 5~10년",
+    "level": "5-7년",
+    "location": "서울금천구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55453312&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "5c4fac33ad6f8298"
+  },
+  {
+    "source": "saramin",
+    "company": "디딤(주)",
+    "title": "AI Agent / LLM 기반 개발자 경력 채용 - 경력 5~15년",
+    "level": "5-7년",
+    "location": "서울구로구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55505065&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "3efa0f14573f7a6f"
+  },
+  {
+    "source": "saramin",
+    "company": "디딤(주)",
+    "title": "빅데이터 플랫폼 개발 경력 채용 - 경력 5~15년",
+    "level": "5-7년",
+    "location": "서울구로구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55505082&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "2c27a3c50bf212a4"
+  },
+  {
+    "source": "saramin",
+    "company": "(주)카카오브이엑스",
+    "title": "카카오VX AI부스트 GMS 웹 시스템 개발자 채용 - 경력5년↑",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55466810&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "4ff554cd4e6e25e1"
+  },
+  {
+    "source": "saramin",
+    "company": "위프로커넥티드서비시즈인크",
+    "title": "[위프로커넥티드서비시즈인크] Talent Pool - Software Engineer - 경력 3~15년",
+    "level": "5-7년",
+    "location": "경기성남시 분당구",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55032424&location=ts&searchword=%EC%9E%90%EB%B0%94+%EB%B0%B1%EC%97%94%EB%93%9C&searchType=search&paid_fl=n&search_uuid=54605201-a186-4b9f-b164-e21ffa3db94a",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "7d30389bb50cbf42"
   },
   {
     "source": "greetinghr",
@@ -1338,7 +1437,7 @@
     "location": "스탭",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/240240",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "34fe8ce004d8f97a"
   },
   {
@@ -1349,7 +1448,7 @@
     "location": "비즈니스",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/240505",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "534affd676bbecbb"
   },
   {
@@ -1360,7 +1459,7 @@
     "location": "프로덕트",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/206749",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "c49dee632fc545d5"
   },
   {
@@ -1371,7 +1470,7 @@
     "location": "프로덕트",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/230058",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ad7f1b7eff4ca1e1"
   },
   {
@@ -1382,19 +1481,8 @@
     "location": "신입",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/244060",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "2789205c80070561"
-  },
-  {
-    "source": "greetinghr",
-    "company": "카카오페이",
-    "title": "DevOps 엔지니어 - 클러스터 구축/운영 및 CICD 파이프라인 개발/운영 - 경력 5년 이상",
-    "level": "5-7년",
-    "location": "기술",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/243571",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4ac872cef931bf4a"
   },
   {
     "source": "greetinghr",
@@ -1404,7 +1492,7 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243552",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "9b1354319db50fa3"
   },
   {
@@ -1415,19 +1503,8 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243545",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "cedeb3997db30224"
-  },
-  {
-    "source": "greetinghr",
-    "company": "카카오페이",
-    "title": "컴플라이언스 담당자 - 준법지원/내부통제 - 경력 3년 이상",
-    "level": "5-7년",
-    "location": "스탭",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/243349",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "852ff41317de83b3"
   },
   {
     "source": "greetinghr",
@@ -1437,7 +1514,7 @@
     "location": "신입",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243308",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ff06b5544c948c84"
   },
   {
@@ -1448,7 +1525,7 @@
     "location": "신입",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243291",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "a9824941abb0541d"
   },
   {
@@ -1459,7 +1536,7 @@
     "location": "신입",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243277",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "d0c270a7ab49e8f5"
   },
   {
@@ -1470,7 +1547,7 @@
     "location": "신입",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243248",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "754effc7e171fc94"
   },
   {
@@ -1481,7 +1558,7 @@
     "location": "디자인",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/243086",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5441af954bbf8781"
   },
   {
@@ -1492,7 +1569,7 @@
     "location": "스탭",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/239566",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "010ee15a7b92f73a"
   },
   {
@@ -1503,7 +1580,7 @@
     "location": "마케팅",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/239428",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "745845592b2d35c2"
   },
   {
@@ -1514,7 +1591,7 @@
     "location": "스탭",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/239384",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ca7c6097b3aeba4d"
   },
   {
@@ -1525,7 +1602,7 @@
     "location": "비즈니스",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/239376",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "d20eb5ca241f3048"
   },
   {
@@ -1536,7 +1613,7 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/239250",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "48225ddae5aca561"
   },
   {
@@ -1547,7 +1624,7 @@
     "location": "디자인",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/239234",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5ec6760bd050804e"
   },
   {
@@ -1558,7 +1635,7 @@
     "location": "프로덕트",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/236574",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "8e4408d023ba6a67"
   },
   {
@@ -1569,7 +1646,7 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/236554",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5d378dc275ccf6a8"
   },
   {
@@ -1580,7 +1657,7 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/235177",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "2edc38f283bf1527"
   },
   {
@@ -1591,7 +1668,7 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/234824",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "32ae14a4bf7dd062"
   },
   {
@@ -1602,7 +1679,7 @@
     "location": "마케팅",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/234354",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "f7c02b680753b3f1"
   },
   {
@@ -1613,19 +1690,8 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/233787",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "c6be4b7243c01ed8"
-  },
-  {
-    "source": "greetinghr",
-    "company": "카카오페이",
-    "title": "사업 담당자 - 해외 온라인 결제 - 경력 2년 이상",
-    "level": "5-7년",
-    "location": "비즈니스",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/228948",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "52c1cb5df40a3c00"
   },
   {
     "source": "greetinghr",
@@ -1635,7 +1701,7 @@
     "location": "비즈니스",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/228901",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "879ff8427e32f50e"
   },
   {
@@ -1646,19 +1712,8 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/228860",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "1ff151ce259bb12f"
-  },
-  {
-    "source": "greetinghr",
-    "company": "카카오페이",
-    "title": "프로덕트 매니저 - 광고 수익화 및 혜택 서비스 그로스 - 경력 3년 이상",
-    "level": "5-7년",
-    "location": "프로덕트",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/224111",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "89b17400f22e9b80"
   },
   {
     "source": "greetinghr",
@@ -1668,7 +1723,7 @@
     "location": "기술",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/214480",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "e6f8a6155405d809"
   },
   {
@@ -1679,7 +1734,7 @@
     "location": "경력 무관",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "3162fcb5167dac5f"
   },
   {
@@ -1690,7 +1745,7 @@
     "location": "경력 무관",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "2411128422d082ad"
   },
   {
@@ -1701,7 +1756,7 @@
     "location": "경력 무관",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/103674",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "cfa4394b20f3196c"
   },
   {
@@ -1712,7 +1767,7 @@
     "location": "경력 무관",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "684a4bd53c631d43"
   },
   {
@@ -1723,7 +1778,7 @@
     "location": "경력 무관",
     "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "35ef9329dc4ef246"
   },
   {
@@ -1734,7 +1789,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/205613",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "baf458ecd79299e5"
   },
   {
@@ -1745,7 +1800,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/225964",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "4de74a61a4fa8f5c"
   },
   {
@@ -1756,7 +1811,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/205618",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "51ff0b47b9335aab"
   },
   {
@@ -1767,7 +1822,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/230974",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "cf56d5b6272ef942"
   },
   {
@@ -1778,7 +1833,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/148119",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "7858e093281bf4e9"
   },
   {
@@ -1789,7 +1844,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/236686",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "c1f1bb9fb3663b0c"
   },
   {
@@ -1800,7 +1855,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/243986",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "80120324b3faed66"
   },
   {
@@ -1811,7 +1866,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/243726",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "6e2710eb1bee4c24"
   },
   {
@@ -1822,7 +1877,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/243516",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ac1b4f120233d349"
   },
   {
@@ -1833,7 +1888,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/243388",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "287cf2c205537e34"
   },
   {
@@ -1844,7 +1899,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/242043",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "fd44c1fa57948ae0"
   },
   {
@@ -1855,7 +1910,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/240856",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "c0c592d1b7506b03"
   },
   {
@@ -1866,7 +1921,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/240708",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "9bbc9119b138b7f9"
   },
   {
@@ -1877,7 +1932,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/240681",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "fd62fe0eb862e2d2"
   },
   {
@@ -1888,7 +1943,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/237154",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "e79466469118044f"
   },
   {
@@ -1899,7 +1954,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/236791",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "4e3405177edab0f4"
   },
   {
@@ -1910,7 +1965,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/236755",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "448573d2c305098a"
   },
   {
@@ -1921,7 +1976,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/232118",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "8448774072a2937e"
   },
   {
@@ -1932,7 +1987,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/229410",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "631500b1a3cb3d38"
   },
   {
@@ -1943,7 +1998,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/228360",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "7016283e5fccada2"
   },
   {
@@ -1954,7 +2009,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/227958",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "c5cac86d63319cf0"
   },
   {
@@ -1965,7 +2020,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/202734",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "910bca029912af01"
   },
   {
@@ -1976,7 +2031,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/187114",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "edaa740d2310ce82"
   },
   {
@@ -1987,7 +2042,7 @@
     "location": "수시채용",
     "url": "https://kakaomobility.career.greetinghr.com/ko/o/160926",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "85774a40839e015c"
   },
   {
@@ -1998,7 +2053,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14402?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "d1fa8d54f88c6bc5"
   },
   {
@@ -2009,7 +2064,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14324?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "888815ed434b01e4"
   },
   {
@@ -2020,7 +2075,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14469?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5ab7b177491a2a4d"
   },
   {
@@ -2031,7 +2086,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14519?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ad6cdb6ad38cbcd3"
   },
   {
@@ -2042,7 +2097,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14276?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "d5025e102f6fc4cd"
   },
   {
@@ -2053,7 +2108,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14581?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "90abe2c8f2f3a8ea"
   },
   {
@@ -2064,7 +2119,7 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14558?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "65219fae7b5d14b8"
   },
   {
@@ -2075,19 +2130,8 @@
     "location": "",
     "url": "https://careers.kakao.com/jobs/P-14559?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "9ca57fc4a01e7c45"
-  },
-  {
-    "source": "playwright",
-    "company": "네이버",
-    "title": "[NAVER] 특허 담당 변리사(IT 분야) (경력)모집 부서Corporate모집 분야지식재산모집 경력경력근로 조건정규모집 기간2026.10.29 ~ 2026.11.10",
-    "level": "5-7년",
-    "location": "",
-    "url": "https://recruit.navercorp.com/rcrt/list.do#n",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "fe0a8eeabb8944df"
   },
   {
     "source": "playwright",
@@ -2097,7 +2141,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "6bed8a3eca1bf505"
   },
   {
@@ -2108,7 +2152,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "685c2e98dcd1c97d"
   },
   {
@@ -2119,7 +2163,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "6b37e728f1daaca1"
   },
   {
@@ -2130,7 +2174,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "44da03213bed862d"
   },
   {
@@ -2141,19 +2185,8 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "d8d05cc0d265a36a"
-  },
-  {
-    "source": "playwright",
-    "company": "네이버",
-    "title": "[NAVER] 소셜 미디어 영상 콘텐츠 제작 담당자 (계약)모집 부서Design모집 분야Visual Comm. & Brand Design모집 경력경력근로 조건계약모집 기간2026.10.30 ~ 2026.11.10",
-    "level": "5-7년",
-    "location": "",
-    "url": "https://recruit.navercorp.com/rcrt/list.do#n",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "4a58a891bc5e6ab1"
   },
   {
     "source": "playwright",
@@ -2163,7 +2196,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "cb4c2ed461497283"
   },
   {
@@ -2174,7 +2207,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "0e04c5a0f70b26bf"
   },
   {
@@ -2185,7 +2218,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "a4bf2fda7beb7792"
   },
   {
@@ -2196,7 +2229,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "e9709a4ddc9049ea"
   },
   {
@@ -2207,7 +2240,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "90b781ebb552014a"
   },
   {
@@ -2218,7 +2251,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "6d0b49e3113b26bc"
   },
   {
@@ -2229,7 +2262,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "7afbf394a10b72eb"
   },
   {
@@ -2240,7 +2273,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "dd4c5a7c3bbda514"
   },
   {
@@ -2251,7 +2284,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "1a08f105c8215a2a"
   },
   {
@@ -2262,7 +2295,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "6f851cc52647656a"
   },
   {
@@ -2273,7 +2306,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "8bf0be11d52ab684"
   },
   {
@@ -2284,7 +2317,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "2113f4c215e5358d"
   },
   {
@@ -2295,7 +2328,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "801290c7ec56f9ba"
   },
   {
@@ -2306,7 +2339,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5f4a24edcebf68ec"
   },
   {
@@ -2317,7 +2350,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "b01e45c8803f98a9"
   },
   {
@@ -2328,7 +2361,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "d5e48aa33aa1e737"
   },
   {
@@ -2339,7 +2372,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "a783f5b571c89f72"
   },
   {
@@ -2350,7 +2383,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ba679914c6d3a8c1"
   },
   {
@@ -2361,7 +2394,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "82fc1a1ec34cb551"
   },
   {
@@ -2372,7 +2405,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "cc403f5f0fe3aad7"
   },
   {
@@ -2383,7 +2416,7 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5cdf2ddd80ad3784"
   },
   {
@@ -2394,8 +2427,19 @@
     "location": "",
     "url": "https://recruit.navercorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "87d9a31080187a9f"
+  },
+  {
+    "source": "playwright",
+    "company": "네이버",
+    "title": "[NAVER I&S] 소프트웨어 자산·라이선스 운영·기획 담당 (경력)모집 부서Corporate모집 분야자산관리모집 경력경력근로 조건정규모집 기간2026.09.11 ~ 2026.11.30",
+    "level": "5-7년",
+    "location": "",
+    "url": "https://recruit.navercorp.com/rcrt/list.do#n",
+    "description": "",
+    "date_found": "2026-11-10",
+    "unique_key": "32243c1e1e328e03"
   },
   {
     "source": "playwright",
@@ -2405,7 +2449,7 @@
     "location": "",
     "url": "https://recruit.navercloudcorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "1f297d9b48b2e7df"
   },
   {
@@ -2416,7 +2460,7 @@
     "location": "",
     "url": "https://recruit.navercloudcorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "a913e7655367d203"
   },
   {
@@ -2427,7 +2471,7 @@
     "location": "",
     "url": "https://recruit.navercloudcorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "643072eedee01887"
   },
   {
@@ -2438,7 +2482,7 @@
     "location": "",
     "url": "https://recruit.navercloudcorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "7d88161fa996f421"
   },
   {
@@ -2449,7 +2493,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5208997e6cdd9b85"
   },
   {
@@ -2460,7 +2504,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "84284b49303270aa"
   },
   {
@@ -2471,7 +2515,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "20093c39cdf7b394"
   },
   {
@@ -2482,7 +2526,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ca605f29808e620e"
   },
   {
@@ -2493,7 +2537,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "f8c6177dc409a88c"
   },
   {
@@ -2504,7 +2548,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "382f219cbc0c2d00"
   },
   {
@@ -2515,7 +2559,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5daec445c3718258"
   },
   {
@@ -2526,7 +2570,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "26126f98d5c9d50f"
   },
   {
@@ -2537,7 +2581,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "ed726ab12ef77bab"
   },
   {
@@ -2548,7 +2592,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "3c354fe7fac63640"
   },
   {
@@ -2559,7 +2603,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "b45c843b8f93c755"
   },
   {
@@ -2570,7 +2614,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "0c3b8cfab3538b05"
   },
   {
@@ -2581,7 +2625,7 @@
     "location": "",
     "url": "https://recruit.webtoonscorp.com/rcrt/list.do#n",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "f2926f17d01a0658"
   },
   {
@@ -2592,7 +2636,7 @@
     "location": "삼성물산 건설부문",
     "url": "https://www.samsungcareers.com/#none",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "4df2ea85edc7b03b"
   },
   {
@@ -2603,7 +2647,7 @@
     "location": "삼성물산 건설부문",
     "url": "https://www.samsungcareers.com/#none",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "0a191dd757cc321c"
   },
   {
@@ -2614,7 +2658,7 @@
     "location": "삼성물산 건설부문",
     "url": "https://www.samsungcareers.com/#none",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "5247d12bf20c8072"
   },
   {
@@ -2625,7 +2669,7 @@
     "location": "삼성물산 건설부문",
     "url": "https://www.samsungcareers.com/#none",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "69a368878d908726"
   },
   {
@@ -2636,19 +2680,8 @@
     "location": "삼성바이오에피스",
     "url": "https://www.samsungcareers.com/#none",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "2a15619fb7f82bba"
-  },
-  {
-    "source": "playwright",
-    "company": "삼성SDS",
-    "title": "경력사원 채용(연구개발, 분석) - 경력",
-    "level": "5-7년",
-    "location": "삼성E&A",
-    "url": "https://www.samsungcareers.com/#none",
-    "description": "",
-    "date_found": "2026-11-09",
-    "unique_key": "3936e98146334aa9"
   },
   {
     "source": "playwright",
@@ -2658,7 +2691,7 @@
     "location": "",
     "url": "https://www.lotteinnovate.com/ko/recruit/careers",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "8df3e814557f6531"
   },
   {
@@ -2669,7 +2702,7 @@
     "location": "",
     "url": "https://www.lotteinnovate.com/ko/recruit/careers",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "b762f85bbf473a65"
   },
   {
@@ -2680,7 +2713,7 @@
     "location": "",
     "url": "https://www.lotteinnovate.com/ko/recruit/careers/hr",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "227a2fc394cfdea7"
   },
   {
@@ -2691,7 +2724,7 @@
     "location": "",
     "url": "https://www.lotteinnovate.com/ko/recruit/careers/info",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "7a604f1e15b482ad"
   },
   {
@@ -2702,7 +2735,7 @@
     "location": "",
     "url": "https://www.lotteinnovate.com/ko/recruit/careers/pms",
     "description": "",
-    "date_found": "2026-11-09",
+    "date_found": "2026-11-10",
     "unique_key": "a00e661e2364a7d8"
   }
 ]
